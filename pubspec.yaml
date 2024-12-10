@@ -24,12 +24,12 @@ flutter:
   fonts:
     - family: Quicksand
       fonts:
-        - asset: packages/betty_resource/fonts/quicksand/Quicksand-Light.ttf
+        - asset: fonts/quicksand/Quicksand-Light.ttf
           weight: 300
-        - asset: packages/betty_resource/fonts/quicksand/Quicksand-Regular.ttf
-        - asset: packages/betty_resource/fonts/quicksand/Quicksand-Medium.ttf
+        - asset: fonts/quicksand/Quicksand-Regular.ttf
+        - asset: fonts/quicksand/Quicksand-Medium.ttf
           weight: 500
-        - asset: packages/betty_resource/fonts/quicksand/Quicksand-SemiBold.ttf
+        - asset: fonts/quicksand/Quicksand-SemiBold.ttf
           weight: 600
-        - asset: packages/betty_resource/fonts/quicksand/Quicksand-Bold.ttf
+        - asset: fonts/quicksand/Quicksand-Bold.ttf
           weight: 700
