@@ -19,7 +19,8 @@ dev_dependencies:
 flutter:
   assets:
     - assets/
-    - assets/bettygeneral/
+    - assets/icon/
+    - assets/image/
 
   fonts:
     - family: Quicksand
