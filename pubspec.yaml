@@ -33,3 +33,20 @@ flutter:
           weight: 600
         - asset: fonts/quicksand/Quicksand-Bold.ttf
           weight: 700
+    - family: Satoshi
+      fonts:
+        - asset: fonts/satoshi/Satoshi-Light.otf
+          weight: 300
+        - asset: fonts/satoshi/Satoshi-Regular.otf
+        - asset: fonts/satoshi/Satoshi-Medium.otf
+          weight: 500
+        - asset: fonts/satoshi/Satoshi-Medium.otf
+          weight: 600
+        - asset: fonts/satoshi/Satoshi-Bold.otf
+          weight: 700
+        - asset: fonts/satoshi/Satoshi-Black.otf
+          weight: 700
+    - family: Inter
+      fonts:
+        - asset: fonts/inter/Inter-Italic-VariableFont_opsz,wght.ttf
+        - asset: fonts/inter/Inter-VariableFont_opsz,wght.ttf
