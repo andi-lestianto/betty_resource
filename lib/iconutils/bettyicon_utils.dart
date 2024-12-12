@@ -15,7 +15,7 @@ class BettyIcon {
   static const icArrowSvg = '${path}assets/icon/ic-arrow.svg';
   static const icAttachmentSvg = '${path}assets/icon/ic-attachment.svg';
   static const icBackupSvg = '${path}assets/icon/ic-backup.svg';
-  static const icBagHappySvg = '${path}assets/icon/ic-bag-happy.svg';
+  static const icSaleOfItemSvg = '${path}assets/icon/ic-sales-of-item.svg';
   static const icBluetoothSvg = '${path}assets/icon/ic-bluetooth.svg';
   static const icBoxTickActiveSvg = '${path}assets/icon/ic-box-tick-active.svg';
   static const icBoxTickSvg = '${path}assets/icon/ic-box-tick.svg';
@@ -30,14 +30,15 @@ class BettyIcon {
   static const icChartSquareSvg = '${path}assets/icon/ic-chart-square.svg';
   static const icCheckSvg = '${path}assets/icon/ic-check.svg';
   static const icChecklistSvg = '${path}assets/icon/ic-checklist.svg';
+  static const icRestoreDoneSvg = '${path}assets/icon/ic-restore-done.svg';
   static const icChooseImageSvg = '${path}assets/icon/ic-choose-image.svg';
   static const icCleartextfieldSvg = '${path}assets/icon/ic-cleartextfield.svg';
   static const icClipboardTickActiveSvg =
       '${path}assets/icon/ic-clipboard-tick-active.svg';
   static const icClipboardTickSvg = '${path}assets/icon/ic-clipboard-tick.svg';
-  static const icCloseCircleSvg = '${path}assets/icon/ic-close-circle.svg';
-  static const icCloseRoundedSvg = '${path}assets/icon/ic-close-rounded.svg';
-  static const icCloseSvg = '${path}assets/icon/ic-close.svg';
+  static const icCloseCircleSvg = 'assets/icon/ic-close-circle.svg';
+  static const icCloseRoundedSvg = 'assets/icon/ic-close-rounded.svg';
+  static const icCloseSvg = 'assets/icon/ic-close.svg';
   static const icDebitccSvg = '${path}assets/icon/ic-debitcc.svg';
   static const icDeliveryActiveSvg =
       '${path}assets/icon/ic-delivery-active.svg';
@@ -71,7 +72,7 @@ class BettyIcon {
   static const icMapSvg = '${path}assets/icon/ic-map.svg';
   static const icMaximizeSvg = '${path}assets/icon/ic-maximize.svg';
   static const icMinSvg = '${path}assets/icon/ic-min.svg';
-  static const icMoneySendSvg = '${path}assets/icon/ic-money-send.svg';
+  static const icTotalIncomeSvg = '${path}assets/icon/ic-total-income.svg';
   static const icMotorSvg = '${path}assets/icon/ic-motor.svg';
   static const icNoteActiveSvg = '${path}assets/icon/ic-note-active.svg';
   static const icNoteSvg = '${path}assets/icon/ic-note.svg';
@@ -99,7 +100,6 @@ class BettyIcon {
   static const icShieldSearchSvg = '${path}assets/icon/ic-shield-search.svg';
   static const icShieldTickSvg = '${path}assets/icon/ic-shield-tick.svg';
   static const icShopSvg = '${path}assets/icon/ic-shop.svg';
-  static const icShoppingNewSvg = '${path}assets/icon/ic-shopping-new.svg';
   static const icShoppingSvg = '${path}assets/icon/ic-shopping.svg';
   static const icSmsSvg = '${path}assets/icon/ic-sms.svg';
   static const icStarSvg = '${path}assets/icon/ic-star.svg';
@@ -117,4 +117,5 @@ class BettyIcon {
   static const icUserTagSvg = '${path}assets/icon/ic-user-tag.svg';
   static const icWarningSvg = '${path}assets/icon/ic-warning.svg';
   static const starSvg = '${path}assets/icon/star.svg';
+  static const icAvgOrderPriceSvg = '${path}assets/icon/ic-avg-order-price.svg';
 }
