@@ -36,9 +36,9 @@ class BettyIcon {
   static const icClipboardTickActiveSvg =
       '${path}assets/icon/ic-clipboard-tick-active.svg';
   static const icClipboardTickSvg = '${path}assets/icon/ic-clipboard-tick.svg';
-  static const icCloseCircleSvg = 'assets/icon/ic-close-circle.svg';
-  static const icCloseRoundedSvg = 'assets/icon/ic-close-rounded.svg';
-  static const icCloseSvg = 'assets/icon/ic-close.svg';
+  static const icCloseCircleSvg = '${path}assets/icon/ic-close-circle.svg';
+  static const icCloseRoundedSvg = '${path}assets/icon/ic-close-rounded.svg';
+  static const icCloseSvg = '${path}assets/icon/ic-close.svg';
   static const icDebitccSvg = '${path}assets/icon/ic-debitcc.svg';
   static const icDeliveryActiveSvg =
       '${path}assets/icon/ic-delivery-active.svg';
