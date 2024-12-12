@@ -64,4 +64,26 @@ class BettyImage {
 
   /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-onboarding3.png?raw=true)
   static const imgOnboarding3Png = '${path}assets/image/img-onboarding3.png';
+
+  /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-bg-auth.png?raw=true)
+  static const imgBgAuthPng = '${path}assets/image/img-bg-auth.png';
+
+  /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-qrbettyid.png?raw=true)
+  static const imgQrBettyIdPng = '${path}assets/image/img-qrbettyid.png';
+
+  /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-logo-betty-icongreen.png?raw=true)
+  static const imgLogoBettyIconGreenPng =
+      '${path}assets/image/img-logo-betty-icongreen.png';
+
+  /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-logo-betty-invoice.png?raw=true)
+  static const imgLogoBettyInvoicePng =
+      '${path}assets/image/img-logo-betty-invoice.png';
+
+  /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-logo-betty-logotextwhite.png?raw=true)
+  static const imgLogoBettyLogoTextWhitePng =
+      '${path}assets/image/img-logo-betty-logotextwhite.png';
+
+  /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-logo-betty-textgreen.png?raw=true)
+  static const imgLogoBettyTextGreenPng =
+      '${path}assets/image/img-logo-betty-textgreen.png';
 }
