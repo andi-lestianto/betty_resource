@@ -1,121 +1,144 @@
 class BettyIcon {
   static const String path = 'packages/betty_resource/';
 
-  static const bettySvg = '${path}assets/icon/betty.svg';
-  static const icAddSquareSvg = '${path}assets/icon/ic-add-square.svg';
-  static const icAddSquareActiveSvg =
+  static const String bettySvg = '${path}assets/icon/betty.svg';
+  static const String icAddSquareSvg = '${path}assets/icon/ic-add-square.svg';
+  static const String icAddSquareActiveSvg =
       '${path}assets/icon/ic-add-square_active.svg';
-  static const icAddSvg = '${path}assets/icon/ic-add.svg';
-  static const icArchiveTickSvg = '${path}assets/icon/ic-archive-tick.svg';
-  static const icArrowCircleRightSvg =
+  static const String icAddSvg = '${path}assets/icon/ic-add.svg';
+  static const String icArchiveTickSvg =
+      '${path}assets/icon/ic-archive-tick.svg';
+  static const String icArrowCircleRightSvg =
       '${path}assets/icon/ic-arrow-circle-right.svg';
-  static const icArrowKeyboardSvg = '${path}assets/icon/ic-arrow-keyboard.svg';
-  static const icArrowRightSvg = '${path}assets/icon/ic-arrow-right.svg';
-  static const icArrowSortSvg = '${path}assets/icon/ic-arrow-sort.svg';
-  static const icArrowSvg = '${path}assets/icon/ic-arrow.svg';
-  static const icAttachmentSvg = '${path}assets/icon/ic-attachment.svg';
-  static const icBackupSvg = '${path}assets/icon/ic-backup.svg';
-  static const icSaleOfItemSvg = '${path}assets/icon/ic-sales-of-item.svg';
-  static const icBluetoothSvg = '${path}assets/icon/ic-bluetooth.svg';
-  static const icBoxTickActiveSvg = '${path}assets/icon/ic-box-tick-active.svg';
-  static const icBoxTickSvg = '${path}assets/icon/ic-box-tick.svg';
-  static const icCallCallingSvg = '${path}assets/icon/ic-call-calling.svg';
-  static const icCameraSvg = '${path}assets/icon/ic-camera.svg';
-  static const icCashSvg = '${path}assets/icon/ic-cash.svg';
-  static const icCategoryActiveSvg =
+  static const String icArrowKeyboardSvg =
+      '${path}assets/icon/ic-arrow-keyboard.svg';
+  static const String icArrowRightSvg = '${path}assets/icon/ic-arrow-right.svg';
+  static const String icArrowSortSvg = '${path}assets/icon/ic-arrow-sort.svg';
+  static const String icArrowSvg = '${path}assets/icon/ic-arrow.svg';
+  static const String icAttachmentSvg = '${path}assets/icon/ic-attachment.svg';
+  static const String icBackupSvg = '${path}assets/icon/ic-backup.svg';
+  static const String icSaleOfItemSvg =
+      '${path}assets/icon/ic-sales-of-item.svg';
+  static const String icBluetoothSvg = '${path}assets/icon/ic-bluetooth.svg';
+  static const String icBoxTickActiveSvg =
+      '${path}assets/icon/ic-box-tick-active.svg';
+  static const String icBoxTickSvg = '${path}assets/icon/ic-box-tick.svg';
+  static const String icCallCallingSvg =
+      '${path}assets/icon/ic-call-calling.svg';
+  static const String icCameraSvg = '${path}assets/icon/ic-camera.svg';
+  static const String icCashSvg = '${path}assets/icon/ic-cash.svg';
+  static const String icCategoryActiveSvg =
       '${path}assets/icon/ic-category-active.svg';
-  static const icCategorySvg = '${path}assets/icon/ic-category.svg';
-  static const icChartSquareActiveSvg =
+  static const String icCategorySvg = '${path}assets/icon/ic-category.svg';
+  static const String icChartSquareActiveSvg =
       '${path}assets/icon/ic-chart-square-active.svg';
-  static const icChartSquareSvg = '${path}assets/icon/ic-chart-square.svg';
-  static const icCheckSvg = '${path}assets/icon/ic-check.svg';
-  static const icChecklistSvg = '${path}assets/icon/ic-checklist.svg';
-  static const icRestoreDoneSvg = '${path}assets/icon/ic-restore-done.svg';
-  static const icChooseImageSvg = '${path}assets/icon/ic-choose-image.svg';
-  static const icCleartextfieldSvg = '${path}assets/icon/ic-cleartextfield.svg';
-  static const icClipboardTickActiveSvg =
+  static const String icChartSquareSvg =
+      '${path}assets/icon/ic-chart-square.svg';
+  static const String icCheckSvg = '${path}assets/icon/ic-check.svg';
+  static const String icChecklistSvg = '${path}assets/icon/ic-checklist.svg';
+  static const String icRestoreDoneSvg =
+      '${path}assets/icon/ic-restore-done.svg';
+  static const String icChooseImageSvg =
+      '${path}assets/icon/ic-choose-image.svg';
+  static const String icCleartextfieldSvg =
+      '${path}assets/icon/ic-cleartextfield.svg';
+  static const String icClipboardTickActiveSvg =
       '${path}assets/icon/ic-clipboard-tick-active.svg';
-  static const icClipboardTickSvg = '${path}assets/icon/ic-clipboard-tick.svg';
-  static const icCloseCircleSvg = '${path}assets/icon/ic-close-circle.svg';
-  static const icCloseRoundedSvg = '${path}assets/icon/ic-close-rounded.svg';
-  static const icCloseSvg = '${path}assets/icon/ic-close.svg';
-  static const icDebitccSvg = '${path}assets/icon/ic-debitcc.svg';
-  static const icDeliveryActiveSvg =
+  static const String icClipboardTickSvg =
+      '${path}assets/icon/ic-clipboard-tick.svg';
+  static const String icCloseCircleSvg =
+      '${path}assets/icon/ic-close-circle.svg';
+  static const String icCloseRoundedSvg =
+      '${path}assets/icon/ic-close-rounded.svg';
+  static const String icCloseSvg = '${path}assets/icon/ic-close.svg';
+  static const String icDebitccSvg = '${path}assets/icon/ic-debitcc.svg';
+  static const String icDeliveryActiveSvg =
       '${path}assets/icon/ic-delivery-active.svg';
-  static const icDeliverySvg = '${path}assets/icon/ic-delivery.svg';
-  static const icDocumentDownloadSvg =
+  static const String icDeliverySvg = '${path}assets/icon/ic-delivery.svg';
+  static const String icDocumentDownloadSvg =
       '${path}assets/icon/ic-document-download.svg';
-  static const icDocumentExportSvg =
+  static const String icDocumentExportSvg =
       '${path}assets/icon/ic-document-export.svg';
-  static const icDocumentSvg = '${path}assets/icon/ic-document.svg';
-  static const icEditSvg = '${path}assets/icon/ic-edit.svg';
-  static const icExcelSvg = '${path}assets/icon/ic-excel.svg';
-  static const icExpandSvg = '${path}assets/icon/ic-expand.svg';
-  static const icExportReportExcelSvg =
+  static const String icDocumentSvg = '${path}assets/icon/ic-document.svg';
+  static const String icEditSvg = '${path}assets/icon/ic-edit.svg';
+  static const String icExcelSvg = '${path}assets/icon/ic-excel.svg';
+  static const String icExpandSvg = '${path}assets/icon/ic-expand.svg';
+  static const String icExportReportExcelSvg =
       '${path}assets/icon/ic-export-report-excel.svg';
-  static const icExportReportPdfSvg =
+  static const String icExportReportPdfSvg =
       '${path}assets/icon/ic-export-report-pdf.svg';
-  static const icExportReportSvg = '${path}assets/icon/ic-export-report.svg';
-  static const icEyeSlashSvg = '${path}assets/icon/ic-eye-slash.svg';
-  static const icEyeSvg = '${path}assets/icon/ic-eye.svg';
-  static const icGallerySvg = '${path}assets/icon/ic-gallery.svg';
-  static const icHomeSvg = '${path}assets/icon/ic-home.svg';
-  static const icInfoCircleSvg = '${path}assets/icon/ic-info-circle.svg';
-  static const icInstoreActiveSvg = '${path}assets/icon/ic-instore-active.svg';
-  static const icInstoreSvg = '${path}assets/icon/ic-instore.svg';
-  static const icKeySvg = '${path}assets/icon/ic-key.svg';
-  static const icLanguageSquareSvg =
+  static const String icExportReportSvg =
+      '${path}assets/icon/ic-export-report.svg';
+  static const String icEyeSlashSvg = '${path}assets/icon/ic-eye-slash.svg';
+  static const String icEyeSvg = '${path}assets/icon/ic-eye.svg';
+  static const String icGallerySvg = '${path}assets/icon/ic-gallery.svg';
+  static const String icHomeSvg = '${path}assets/icon/ic-home.svg';
+  static const String icInfoCircleSvg = '${path}assets/icon/ic-info-circle.svg';
+  static const String icInstoreActiveSvg =
+      '${path}assets/icon/ic-instore-active.svg';
+  static const String icInstoreSvg = '${path}assets/icon/ic-instore.svg';
+  static const String icKeySvg = '${path}assets/icon/ic-key.svg';
+  static const String icLanguageSquareSvg =
       '${path}assets/icon/ic-language-square.svg';
-  static const icLocationSvg = '${path}assets/icon/ic-location.svg';
-  static const icLoginSvg = '${path}assets/icon/ic-login.svg';
-  static const icLogoutSvg = '${path}assets/icon/ic-logout.svg';
-  static const icMapSvg = '${path}assets/icon/ic-map.svg';
-  static const icMaximizeSvg = '${path}assets/icon/ic-maximize.svg';
-  static const icMinSvg = '${path}assets/icon/ic-min.svg';
-  static const icTotalIncomeSvg = '${path}assets/icon/ic-total-income.svg';
-  static const icMotorSvg = '${path}assets/icon/ic-motor.svg';
-  static const icNoteActiveSvg = '${path}assets/icon/ic-note-active.svg';
-  static const icNoteSvg = '${path}assets/icon/ic-note.svg';
-  static const icNotificationSvg = '${path}assets/icon/ic-notification.svg';
-  static const icPdfSvg = '${path}assets/icon/ic-pdf.svg';
-  static const icPrinterSvg = '${path}assets/icon/ic-printer.svg';
-  static const icProductActiveSvg = '${path}assets/icon/ic-product-active.svg';
-  static const icProductSvg = '${path}assets/icon/ic-product.svg';
-  static const icProfileSvg = '${path}assets/icon/ic-profile.svg';
-  static const icQrisSvg = '${path}assets/icon/ic-qris.svg';
-  static const icQuestionMarkActiveSvg =
+  static const String icLocationSvg = '${path}assets/icon/ic-location.svg';
+  static const String icLoginSvg = '${path}assets/icon/ic-login.svg';
+  static const String icLogoutSvg = '${path}assets/icon/ic-logout.svg';
+  static const String icMapSvg = '${path}assets/icon/ic-map.svg';
+  static const String icMaximizeSvg = '${path}assets/icon/ic-maximize.svg';
+  static const String icMinSvg = '${path}assets/icon/ic-min.svg';
+  static const String icTotalIncomeSvg =
+      '${path}assets/icon/ic-total-income.svg';
+  static const String icMotorSvg = '${path}assets/icon/ic-motor.svg';
+  static const String icNoteActiveSvg = '${path}assets/icon/ic-note-active.svg';
+  static const String icNoteSvg = '${path}assets/icon/ic-note.svg';
+  static const String icNotificationSvg =
+      '${path}assets/icon/ic-notification.svg';
+  static const String icPdfSvg = '${path}assets/icon/ic-pdf.svg';
+  static const String icPrinterSvg = '${path}assets/icon/ic-printer.svg';
+  static const String icProductActiveSvg =
+      '${path}assets/icon/ic-product-active.svg';
+  static const String icProductSvg = '${path}assets/icon/ic-product.svg';
+  static const String icProfileSvg = '${path}assets/icon/ic-profile.svg';
+  static const String icQrisSvg = '${path}assets/icon/ic-qris.svg';
+  static const String icQuestionMarkActiveSvg =
       '${path}assets/icon/ic-question-mark-active.svg';
-  static const icQuestionMarkSvg = '${path}assets/icon/ic-question-mark.svg';
-  static const icRefreshSquare_2Svg =
+  static const String icQuestionMarkSvg =
+      '${path}assets/icon/ic-question-mark.svg';
+  static const String icRefreshSquare_2Svg =
       '${path}assets/icon/ic-refresh-square-2.svg';
-  static const icRemovePaymentSvg = '${path}assets/icon/ic-remove-payment.svg';
-  static const icRotateRightSvg = '${path}assets/icon/ic-rotate-right.svg';
-  static const icRoutingSvg = '${path}assets/icon/ic-routing.svg';
-  static const icSearchNormalSvg = '${path}assets/icon/ic-search-normal.svg';
-  static const icSearchNotffoundSvg =
+  static const String icRemovePaymentSvg =
+      '${path}assets/icon/ic-remove-payment.svg';
+  static const String icRotateRightSvg =
+      '${path}assets/icon/ic-rotate-right.svg';
+  static const String icRoutingSvg = '${path}assets/icon/ic-routing.svg';
+  static const String icSearchNormalSvg =
+      '${path}assets/icon/ic-search-normal.svg';
+  static const String icSearchNotffoundSvg =
       '${path}assets/icon/ic-search-notffound.svg';
-  static const icSetting_2Svg = '${path}assets/icon/ic-setting-2.svg';
-  static const icSettingSvg = '${path}assets/icon/ic-setting.svg';
-  static const icShareSvg = '${path}assets/icon/ic-share.svg';
-  static const icShieldSearchSvg = '${path}assets/icon/ic-shield-search.svg';
-  static const icShieldTickSvg = '${path}assets/icon/ic-shield-tick.svg';
-  static const icShopSvg = '${path}assets/icon/ic-shop.svg';
-  static const icShoppingSvg = '${path}assets/icon/ic-shopping.svg';
-  static const icSmsSvg = '${path}assets/icon/ic-sms.svg';
-  static const icStarSvg = '${path}assets/icon/ic-star.svg';
-  static const icTablewareSvg = '${path}assets/icon/ic-tableware.svg';
-  static const icToggleOffSvg = '${path}assets/icon/ic-toggle-off.svg';
-  static const icToggleOnSvg = '${path}assets/icon/ic-toggle-on.svg';
-  static const icToogleSvg = '${path}assets/icon/ic-toogle.svg';
-  static const icTransactionMinusActiveSvg =
+  static const String icSetting_2Svg = '${path}assets/icon/ic-setting-2.svg';
+  static const String icSettingSvg = '${path}assets/icon/ic-setting.svg';
+  static const String icShareSvg = '${path}assets/icon/ic-share.svg';
+  static const String icShieldSearchSvg =
+      '${path}assets/icon/ic-shield-search.svg';
+  static const String icShieldTickSvg = '${path}assets/icon/ic-shield-tick.svg';
+  static const String icShopSvg = '${path}assets/icon/ic-shop.svg';
+  static const String icShoppingSvg = '${path}assets/icon/ic-shopping.svg';
+  static const String icSmsSvg = '${path}assets/icon/ic-sms.svg';
+  static const String icStarSvg = '${path}assets/icon/ic-star.svg';
+  static const String icTablewareSvg = '${path}assets/icon/ic-tableware.svg';
+  static const String icToggleOffSvg = '${path}assets/icon/ic-toggle-off.svg';
+  static const String icToggleOnSvg = '${path}assets/icon/ic-toggle-on.svg';
+  static const String icToogleSvg = '${path}assets/icon/ic-toogle.svg';
+  static const String icTransactionMinusActiveSvg =
       '${path}assets/icon/ic-transaction-minus-active.svg';
-  static const icTransactionMinusSvg =
+  static const String icTransactionMinusSvg =
       '${path}assets/icon/ic-transaction-minus.svg';
-  static const icTrashSvg = '${path}assets/icon/ic-trash.svg';
-  static const icUpdateSvg = '${path}assets/icon/ic-update.svg';
-  static const icUserAddSvg = '${path}assets/icon/ic-user-add.svg';
-  static const icUserTagSvg = '${path}assets/icon/ic-user-tag.svg';
-  static const icWarningSvg = '${path}assets/icon/ic-warning.svg';
-  static const starSvg = '${path}assets/icon/star.svg';
-  static const icAvgOrderPriceSvg = '${path}assets/icon/ic-avg-order-price.svg';
+  static const String icTrashSvg = '${path}assets/icon/ic-trash.svg';
+  static const String icUpdateSvg = '${path}assets/icon/ic-update.svg';
+  static const String icUserAddSvg = '${path}assets/icon/ic-user-add.svg';
+  static const String icUserTagSvg = '${path}assets/icon/ic-user-tag.svg';
+  static const String icWarningSvg = '${path}assets/icon/ic-warning.svg';
+  static const String starSvg = '${path}assets/icon/star.svg';
+  static const String icAvgOrderPriceSvg =
+      '${path}assets/icon/ic-avg-order-price.svg';
 }
