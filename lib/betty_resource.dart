@@ -8,3 +8,4 @@ export 'package:betty_resource/lottieutils/bettylottie_utils.dart';
 export 'package:betty_resource/utils/currencyformatter_utils.dart';
 export 'package:betty_resource/utils/datetimeformatter_utils.dart';
 export 'package:betty_resource/utils/directoryvalidator_utils.dart';
+export 'package:betty_resource/translations/betty_translation.dart';
