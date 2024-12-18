@@ -122,6 +122,7 @@ class BettyMainEnUSTranslation {
     'main_validation_emailhasexisted':
         'This email has already registered with another account. Please use another email and try again',
     'main_validation_password': 'Password not match!',
+    'main_validation_password_length': 'Must be at least 8 characters',
     'main_validation_confirmpassword':
         'Confirmation password must be the same as password',
     'main_validation_loginerror':
