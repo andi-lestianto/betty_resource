@@ -29,5 +29,15 @@ class BettyFnBIdIDTranslation {
     'fnb_menu_errortitle': 'Belum Ada Menu',
     'fnb_menu_errorsubtitle': 'Daftar menu Anda akan muncul disini.',
     'fnb_menu_addmenu': 'Tambah Menu',
+    'fnb_menu_order': 'Pesanan',
+    'fnb_menu_cancelorder': 'Batalkan Pesanan',
+    'fnb_menu_dinein': 'Dine in',
+    'fnb_menu_takeaway': 'Take away',
+    'fnb_menu_note': 'Catatan',
+    'fnb_menu_edit': 'Edit',
+    'fnb_menu_subtotal': 'Subtotal',
+    'fnb_menu_totalpayment': 'Total Pembayaran',
+    'fnb_menu_paylater': 'Bayar Nanti',
+    'fnb_menu_pay': 'Bayar',
   };
 }

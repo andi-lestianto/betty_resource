@@ -66,6 +66,7 @@ class BettyIcon {
       '${path}assets/icon/ic-document-export.svg';
   static const String icDocumentSvg = '${path}assets/icon/ic-document.svg';
   static const String icEditSvg = '${path}assets/icon/ic-edit.svg';
+  static const String icEditBlackSvg = '${path}assets/icon/ic-edit-black.svg';
   static const String icExcelSvg = '${path}assets/icon/ic-excel.svg';
   static const String icExpandSvg = '${path}assets/icon/ic-expand.svg';
   static const String icExportReportExcelSvg =
@@ -158,4 +159,7 @@ class BettyIcon {
       '${path}assets/icon/ic-verify-withbg.svg';
   static const String icVerifySvg = '${path}assets/icon/ic-verify.svg';
   static const String starSvg = '${path}assets/icon/star.svg';
+  static const String icArrowSquareDownSvg =
+      '${path}assets/icon/ic-arrow-square-down.svg';
+  static const String icNoteAddSvg = '${path}assets/icon/ic-note-add.svg';
 }
