@@ -54,3 +54,14 @@ flutter:
       fonts:
         - asset: fonts/inter/Inter-Italic-VariableFont_opsz,wght.ttf
         - asset: fonts/inter/Inter-VariableFont_opsz,wght.ttf
+    - family: SF-Pro
+      fonts:
+        - asset: fonts/sf-pro/SFPRODISPLAYBLACKITALIC.OTF
+        - asset: fonts/sf-pro/SFPRODISPLAYBOLD.OTF
+        - asset: fonts/sf-pro/SFPRODISPLAYHEAVYITALIC.OTF
+        - asset: fonts/sf-pro/SFPRODISPLAYLIGHTITALIC.OTF
+        - asset: fonts/sf-pro/SFPRODISPLAYMEDIUM.OTF
+        - asset: fonts/sf-pro/SFPRODISPLAYREGULAR.OTF
+        - asset: fonts/sf-pro/SFPRODISPLAYSEMIBOLDITALIC.OTF
+        - asset: fonts/sf-pro/SFPRODISPLAYTHINITALIC.OTF
+        - asset: fonts/sf-pro/SFPRODISPLAYULTRALIGHTITALIC.OTF

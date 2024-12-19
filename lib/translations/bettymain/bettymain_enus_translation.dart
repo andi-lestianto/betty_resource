@@ -98,7 +98,7 @@ class BettyMainEnUSTranslation {
     'main_selectprofile_greeting': 'Welcome back,',
     'main_selectprofile_title': 'Choose business profile',
     'main_selectprofile_subtitle':
-        'Choose the correct business profile to start your shift.',
+        'Choose the correct business profile to start selling.',
     'main_selectprofile_selectprofile': 'Select and Start Shift',
     // Permission
     'main_permission_title': 'Access Permissions',

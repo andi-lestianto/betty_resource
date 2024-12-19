@@ -31,7 +31,7 @@ class DateTimeUtils {
   ///
   /// Returns the current date with the day of the week in string format 'EEE, dd MMMM yyyy' with the given locale
   String getDateNowWithDay({required String languageCode}) {
-    final f = DateFormat('EEE, dd MMMM yyyy', languageCode);
+    final f = DateFormat('EEEE, dd MMMM yyyy', languageCode);
     final dateNow = f.format(DateTime.now());
 
     return dateNow.toString();
@@ -69,7 +69,7 @@ class DateTimeUtils {
   /// Returns a formatted date string with the day of the week according to the given locale.
   String formatDateWithDay(
       {required DateTime date, required String languageCode}) {
-    final f = DateFormat('EEE, dd MMMM yyyy', languageCode);
+    final f = DateFormat('EEEE, dd MMMM yyyy', languageCode);
     final result = f.format(date);
 
     return result.toString();

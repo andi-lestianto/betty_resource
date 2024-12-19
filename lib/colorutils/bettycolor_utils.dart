@@ -32,6 +32,48 @@ class GeneralColor {
   static Color clrTeal = const Color(0XFF6FBAB0);
   static Color clr222222Charcoal = const Color(0xFF222222);
 
+  static Color clrFFFFFF = const Color(0xFFFFFFFF);
+  static Color clrDFDFDF = const Color(0xFFDFDFDF);
+  static Color clrF9F9F9 = const Color(0xFFF9F9F9);
+  static Color clrF5F5F5 = const Color(0xFFF5F5F5);
+
+  static Color clr1F1F1F = const Color(0xFF1F1F1F);
+  static Color clr000000 = const Color(0xFF000000);
+  static Color clr110D17 = const Color(0xFF110D17);
+  static Color clr949494 = const Color(0xFF949494);
+  static Color clr98949E = const Color(0xFF98949E);
+  static Color clrB8B8B8 = const Color(0xFFB8B8B8);
+
+  static Color clr777777 = const Color(0xFF777777);
+  static Color clrD1D0D3 = const Color(0xFFD1D0D3);
+  static Color clrC8C8C8 = const Color(0xFFC8C8C8);
+  static Color clrE8E8E8 = const Color(0xFFE8E8E8);
+
+  static Color clr005F54 = const Color(0xFF005F54);
+  static Color clr008172 = const Color(0xFF008172);
+  static Color clr0C9787 = const Color(0xFF0C9787);
+  static Color clrDCF8F5 = const Color(0xFFDCF8F5);
+  static Color clr006D57 = const Color(0xFF006D57);
+  static Color clr005249 = const Color(0xFF005249);
+  static Color clrA5E5B3 = const Color(0xFFA5E5B3);
+  static Color clrF1FFF4 = const Color(0xFFF1FFF4);
+  static Color clr38EF7D = const Color(0xFF38EF7D);
+  static Color clr11998E = const Color(0xFF11998E);
+  static Color clr0BAE54 = const Color(0xFF0BAE54);
+  static Color clr91E0D6 = const Color(0xFF91E0D6);
+  static Color clrEDFFFD = const Color(0xFFEDFFFD);
+  static Color clr00675B = const Color(0xFF00675B);
+
+  static Color clr41B4A6 = const Color(0xFF41B4A6);
+
+  static Color clrFF3B2F = const Color(0xFFFF3B2F);
+
+  static Color clr007AFF = const Color(0xFF007AFF);
+  static Color clrBCDBFF = const Color(0xFFBCDBFF);
+  static Color clrF4F9FF = const Color(0xFFF4F9FF);
+
+  static Color clrAF52DE = const Color(0xFFAF52DE);
+
   static List<Color> clrGradientGreentty = [
     const Color(0xFF38EF7D),
     const Color(0xFF11998E)
@@ -82,6 +124,10 @@ class GeneralColor {
     clr008170Green,
     clr008170Green
   ];
+
+  static List<Color> clrGradientGreen3 = [clr38EF7D, clr11998E];
+
+  static List<Color> clrGradientGreen4 = [clr005F54, clr008172, clr008172];
 
   static Color clr00B9AEDropShadow = const Color(0xFF00B9AE).withOpacity(0.05);
 

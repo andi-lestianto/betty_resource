@@ -91,4 +91,8 @@ class BettyImage {
   /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-logo-betty-textgreen.png?raw=true)
   static const String imgLogoBettyTextGreenPng =
       '${path}assets/image/img-logo-betty-textgreen.png';
+
+  /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-bettylogo-text.png?raw=true)
+  static const String imgLogoBettyTextGreen2Png =
+      '${path}assets/image/img-bettylogo-text.png';
 }

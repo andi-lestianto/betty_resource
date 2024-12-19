@@ -6,6 +6,7 @@ class BettyIcon {
   static const String icAddSquareActiveSvg =
       '${path}assets/icon/ic-add-square_active.svg';
   static const String icAddSvg = '${path}assets/icon/ic-add.svg';
+  static const String icArrowDownSvg = '${path}assets/icon/ic-arrow-down.svg';
   static const String icArchiveTickSvg =
       '${path}assets/icon/ic-archive-tick.svg';
   static const String icArrowCircleRightSvg =
@@ -16,10 +17,13 @@ class BettyIcon {
   static const String icArrowSortSvg = '${path}assets/icon/ic-arrow-sort.svg';
   static const String icArrowSvg = '${path}assets/icon/ic-arrow.svg';
   static const String icAttachmentSvg = '${path}assets/icon/ic-attachment.svg';
+  static const String icAvgOrderPriceSvg =
+      '${path}assets/icon/ic-avg-order-price.svg';
   static const String icBackupSvg = '${path}assets/icon/ic-backup.svg';
   static const String icSaleOfItemSvg =
       '${path}assets/icon/ic-sales-of-item.svg';
   static const String icBluetoothSvg = '${path}assets/icon/ic-bluetooth.svg';
+  static const String icBoxSvg = '${path}assets/icon/ic-box.svg';
   static const String icBoxTickActiveSvg =
       '${path}assets/icon/ic-box-tick-active.svg';
   static const String icBoxTickSvg = '${path}assets/icon/ic-box-tick.svg';
@@ -36,6 +40,7 @@ class BettyIcon {
       '${path}assets/icon/ic-chart-square.svg';
   static const String icCheckSvg = '${path}assets/icon/ic-check.svg';
   static const String icChecklistSvg = '${path}assets/icon/ic-checklist.svg';
+  static const String icEmptySvg = '${path}assets/icon/ic-empty.svg';
   static const String icRestoreDoneSvg =
       '${path}assets/icon/ic-restore-done.svg';
   static const String icChooseImageSvg =
@@ -85,6 +90,7 @@ class BettyIcon {
   static const String icLogoutSvg = '${path}assets/icon/ic-logout.svg';
   static const String icMapSvg = '${path}assets/icon/ic-map.svg';
   static const String icMaximizeSvg = '${path}assets/icon/ic-maximize.svg';
+  static const String icMenuSvg = '${path}assets/icon/ic-menu.svg';
   static const String icMinSvg = '${path}assets/icon/ic-min.svg';
   static const String icTotalIncomeSvg =
       '${path}assets/icon/ic-total-income.svg';
@@ -94,6 +100,8 @@ class BettyIcon {
   static const String icNotificationSvg =
       '${path}assets/icon/ic-notification.svg';
   static const String icPdfSvg = '${path}assets/icon/ic-pdf.svg';
+  static const String icPresentionChartSvg =
+      '${path}assets/icon/ic-presention-chart.svg';
   static const String icPrinterSvg = '${path}assets/icon/ic-printer.svg';
   static const String icProductActiveSvg =
       '${path}assets/icon/ic-product-active.svg';
@@ -104,10 +112,12 @@ class BettyIcon {
       '${path}assets/icon/ic-question-mark-active.svg';
   static const String icQuestionMarkSvg =
       '${path}assets/icon/ic-question-mark.svg';
+  static const String icRefreshSvg = '${path}assets/icon/ic-refresh.svg';
   static const String icRefreshSquare_2Svg =
       '${path}assets/icon/ic-refresh-square-2.svg';
   static const String icRemovePaymentSvg =
       '${path}assets/icon/ic-remove-payment.svg';
+  static const String icReserveSvg = '${path}assets/icon/ic-reserve.svg';
   static const String icRotateRightSvg =
       '${path}assets/icon/ic-rotate-right.svg';
   static const String icRoutingSvg = '${path}assets/icon/ic-routing.svg';
@@ -138,7 +148,14 @@ class BettyIcon {
   static const String icUserAddSvg = '${path}assets/icon/ic-user-add.svg';
   static const String icUserTagSvg = '${path}assets/icon/ic-user-tag.svg';
   static const String icWarningSvg = '${path}assets/icon/ic-warning.svg';
+  static const String icShieldTickFilledSvg =
+      '${path}assets/icon/ic-shield-tick-filled.svg';
+  static const String icWalletTimerSvg =
+      '${path}assets/icon/ic-wallet-timer.svg';
+  static const String icShopFilledSvg = '${path}assets/icon/ic-shop-filled.svg';
+  static const String icShopWithbgSvg = '${path}assets/icon/ic-shop-withbg.svg';
+  static const String icVerifyWithbgSvg =
+      '${path}assets/icon/ic-verify-withbg.svg';
+  static const String icVerifySvg = '${path}assets/icon/ic-verify.svg';
   static const String starSvg = '${path}assets/icon/star.svg';
-  static const String icAvgOrderPriceSvg =
-      '${path}assets/icon/ic-avg-order-price.svg';
 }

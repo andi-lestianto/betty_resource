@@ -97,7 +97,7 @@ class BettyMainIdIDTranslation {
     'main_selectprofile_greeting': 'Selamat datang kembali,',
     'main_selectprofile_title': 'Pilih profil usaha',
     'main_selectprofile_subtitle':
-        'Pilih profil usaha dengan tepat untuk memulai shift Anda.',
+        'Pilih profil usaha dengan tepat untuk mulai berjualan.',
     'main_selectprofile_selectprofile': 'Pilih dan Mulai Shift',
     // Permission
     'main_permission_title': 'Perizinan Akses',
