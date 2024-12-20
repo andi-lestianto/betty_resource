@@ -28,6 +28,7 @@ class BettyFnBEnUSTranslation {
     'fnb_menu_menu': 'Menu',
     'fnb_menu_errortitle': 'There is no menu yet',
     'fnb_menu_errorsubtitle': 'Your menu list will appear here.',
+    'fnb_menu_addorder': 'Add Order',
     'fnb_menu_addmenu': 'Add Menu',
     'fnb_menu_order': 'Order',
     'fnb_menu_cancelorder': 'Cancel Order',
@@ -37,7 +38,9 @@ class BettyFnBEnUSTranslation {
     'fnb_menu_edit': 'Edit',
     'fnb_menu_subtotal': 'Subtotal',
     'fnb_menu_totalpayment': 'Total Payment',
+    'fnb_menu_totalorder': 'Total Order',
     'fnb_menu_paylater': 'Paylater',
     'fnb_menu_pay': 'Pay',
+    'fnb_menu_exnote': 'Ex. The chicken is in the upper thigh',
   };
 }

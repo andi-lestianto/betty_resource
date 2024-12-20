@@ -28,6 +28,7 @@ class BettyFnBIdIDTranslation {
     'fnb_menu_menu': 'Menu',
     'fnb_menu_errortitle': 'Belum Ada Menu',
     'fnb_menu_errorsubtitle': 'Daftar menu Anda akan muncul disini.',
+    'fnb_menu_addorder': 'Tambah Pesanan',
     'fnb_menu_addmenu': 'Tambah Menu',
     'fnb_menu_order': 'Pesanan',
     'fnb_menu_cancelorder': 'Batalkan Pesanan',
@@ -37,7 +38,9 @@ class BettyFnBIdIDTranslation {
     'fnb_menu_edit': 'Edit',
     'fnb_menu_subtotal': 'Subtotal',
     'fnb_menu_totalpayment': 'Total Pembayaran',
+    'fnb_menu_totalorder': 'Jumlah Pesanan',
     'fnb_menu_paylater': 'Bayar Nanti',
     'fnb_menu_pay': 'Bayar',
+    'fnb_menu_exnote': 'Cth. Ayamnya paha atas ya',
   };
 }
