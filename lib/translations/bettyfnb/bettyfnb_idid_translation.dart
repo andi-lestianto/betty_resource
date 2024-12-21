@@ -42,5 +42,9 @@ class BettyFnBIdIDTranslation {
     'fnb_menu_paylater': 'Bayar Nanti',
     'fnb_menu_pay': 'Bayar',
     'fnb_menu_exnote': 'Cth. Ayamnya paha atas ya',
+    'fnb_menu_canceltitle': 'Batalkan Pesanan?',
+    'fnb_menu_cancelsubtitle':
+        'Daftar pesanan Anda akan dihapus ketika Anda membatalkan Pesanan.',
+    'fnb_menu_cancelorderbtn': 'Ya, Batalkan',
   };
 }

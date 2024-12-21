@@ -42,5 +42,9 @@ class BettyFnBEnUSTranslation {
     'fnb_menu_paylater': 'Paylater',
     'fnb_menu_pay': 'Pay',
     'fnb_menu_exnote': 'Ex. The chicken is in the upper thigh',
+    'fnb_menu_canceltitle': 'Cancel Order?',
+    'fnb_menu_cancelsubtitle':
+        'Your list order will be deleted when you cancel an Order.',
+    'fnb_menu_cancelorderbtn': 'Yes, Cancel',
   };
 }
