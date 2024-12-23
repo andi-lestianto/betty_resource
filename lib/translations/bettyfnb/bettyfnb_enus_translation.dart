@@ -19,6 +19,7 @@ class BettyFnBEnUSTranslation {
     'fnb_general_verified': 'Verified',
     'fnb_general_fnb': 'Foods & Beverages',
     'fnb_general_search': 'Search',
+    'fnb_general_free': 'Free',
     // NavBar
     'fnb_navbar_menu': 'Menu',
     'fnb_navbar_report': 'Report',

@@ -19,6 +19,7 @@ class BettyFnBIdIDTranslation {
     'fnb_general_verified': 'Terverifikasi',
     'fnb_general_fnb': 'Makanan & Minuman',
     'fnb_general_search': 'Cari',
+    'fnb_general_free': 'Gratis',
     // NavBar
     'fnb_navbar_menu': 'Menu',
     'fnb_navbar_report': 'Laporan',
