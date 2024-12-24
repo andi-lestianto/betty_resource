@@ -63,6 +63,7 @@ class BettyFnBIdIDTranslation {
     'fnb_payment_qris': 'QRIS',
     'fnb_payment_changepaymentmethod': 'Ganti Metode Pembayaran',
     'fnb_payment_amountreceived': 'Jumlah Diterima',
+    'fnb_payment_exactcash': 'Uang Pas',
     'fnb_payment_calculatorshortcut': 'Shortcut',
     'fnb_payment_calculatormanual': 'Manual',
     'fnb_payment_success': 'Pembayaran Berhasil',
@@ -81,5 +82,9 @@ class BettyFnBIdIDTranslation {
     'fnb_payment_statuspaid': 'Lunas',
     'fnb_payment_statusunpaid': 'Belum Lunas',
     'fnb_payment_printsuccess': 'Struk Anda berhasil di cetak.',
+    'fnb_payment_waiting': 'Menunggu Pembayaran',
+    'fnb_payment_taptodonetext':
+        'Ketuk ‘Selesai’ jika Anda telah menyelesaikan proses pembayaran.',
+    'fnb_payment_barcodescan': 'Scan Barcode Untuk Membayar',
   };
 }
