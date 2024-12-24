@@ -165,4 +165,7 @@ class BettyIcon {
   static const String icNoteAddSvg = '${path}assets/icon/ic-note-add.svg';
   static const String icInfoCircleYellowBgSvg =
       '${path}assets/icon/ic-info-circle-yellowbg.svg';
+  static const String icCardFilledSvg = '${path}assets/icon/ic-card-filled.svg';
+  static const String icWalletFilledSvg =
+      '${path}assets/icon/ic-wallet-filled.svg';
 }
