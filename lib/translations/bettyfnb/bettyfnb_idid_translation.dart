@@ -56,7 +56,7 @@ class BettyFnBIdIDTranslation {
     'fnb_payment_addorder': 'Tambah Pesanan',
     'fnb_payment_customername': 'Nama Customer',
     'fnb_payment_customernamehinttext': 'Cth. Alex',
-    'fnb_payment_paymentmethod': 'Metode Pembyaran',
+    'fnb_payment_paymentmethod': 'Metode Pembayaran',
     'fnb_payment_pay': 'Bayar',
     'fnb_payment_cash': 'Tunai',
     'fnb_payment_debit': 'Kartu Debit/Kredit',
