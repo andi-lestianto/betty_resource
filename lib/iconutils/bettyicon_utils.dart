@@ -80,6 +80,8 @@ class BettyIcon {
   static const String icGallerySvg = '${path}assets/icon/ic-gallery.svg';
   static const String icHomeSvg = '${path}assets/icon/ic-home.svg';
   static const String icInfoCircleSvg = '${path}assets/icon/ic-info-circle.svg';
+  static const String icInfoCircleRedSvg =
+      '${path}assets/icon/ic-info-circle-red.svg';
   static const String icInstoreActiveSvg =
       '${path}assets/icon/ic-instore-active.svg';
   static const String icInstoreSvg = '${path}assets/icon/ic-instore.svg';
@@ -168,4 +170,8 @@ class BettyIcon {
   static const String icCardFilledSvg = '${path}assets/icon/ic-card-filled.svg';
   static const String icWalletFilledSvg =
       '${path}assets/icon/ic-wallet-filled.svg';
+  static const String icMoneyReceiveSvg =
+      '${path}assets/icon/ic-money-receive.svg';
+  static const String icReserveOrangeSvg =
+      '${path}assets/icon/ic-reserve-orange.svg';
 }
