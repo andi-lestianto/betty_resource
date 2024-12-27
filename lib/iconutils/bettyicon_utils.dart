@@ -174,4 +174,5 @@ class BettyIcon {
       '${path}assets/icon/ic-money-receive.svg';
   static const String icReserveOrangeSvg =
       '${path}assets/icon/ic-reserve-orange.svg';
+  static const String icBackspaceSvg = '${path}assets/icon/ic-backspace.svg';
 }
