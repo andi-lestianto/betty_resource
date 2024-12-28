@@ -26,6 +26,9 @@ class CurrencyFormatUtils {
     if (value == 0 || value == 0.0) {
       return '0';
     }
+    if (value.toString().split('.').first.length < 3) {
+      return value.toString().split('.').first;
+    }
 
     return formatter.format(value).replaceAll(',', '.');
   }
