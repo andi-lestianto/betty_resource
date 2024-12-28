@@ -7,6 +7,7 @@ class BettyIcon {
       '${path}assets/icon/ic-add-square_active.svg';
   static const String icAddSvg = '${path}assets/icon/ic-add.svg';
   static const String icArrowDownSvg = '${path}assets/icon/ic-arrow-down.svg';
+  static const String icArrowUpSvg = '${path}assets/icon/ic-arrow-up.svg';
   static const String icArchiveTickSvg =
       '${path}assets/icon/ic-archive-tick.svg';
   static const String icArrowCircleRightSvg =
@@ -14,6 +15,8 @@ class BettyIcon {
   static const String icArrowKeyboardSvg =
       '${path}assets/icon/ic-arrow-keyboard.svg';
   static const String icArrowRightSvg = '${path}assets/icon/ic-arrow-right.svg';
+  static const String icArrowRight2Svg =
+      '${path}assets/icon/ic-arrow-right2.svg';
   static const String icArrowSortSvg = '${path}assets/icon/ic-arrow-sort.svg';
   static const String icArrowSvg = '${path}assets/icon/ic-arrow.svg';
   static const String icAttachmentSvg = '${path}assets/icon/ic-attachment.svg';
@@ -174,4 +177,5 @@ class BettyIcon {
       '${path}assets/icon/ic-money-receive.svg';
   static const String icReserveOrangeSvg =
       '${path}assets/icon/ic-reserve-orange.svg';
+  static const String icFilterSvg = '${path}assets/icon/ic-filter.svg';
 }
