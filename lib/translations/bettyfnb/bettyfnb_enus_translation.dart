@@ -66,8 +66,9 @@ class BettyFnBEnUSTranslation {
     'fnb_payment_exactcash': 'Exact Cash',
     'fnb_payment_calculatorshortcut': 'Shortcut',
     'fnb_payment_calculatormanual': 'Manual',
-    'fnb_payment_success': 'Payment Success',
-    'fnb_payment_charge': 'Charge',
+    'fnb_payment_success': 'Payment Success!',
+    'fnb_payment_change': 'change',
+    'fnb_payment_nochange': 'No change',
     'fnb_payment_successtitle':
         'Your payment has recorded in the transaction list.',
     'fnb_payment_transactionid': 'Transaction ID',

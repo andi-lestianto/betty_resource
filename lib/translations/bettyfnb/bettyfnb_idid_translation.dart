@@ -66,8 +66,9 @@ class BettyFnBIdIDTranslation {
     'fnb_payment_exactcash': 'Uang Pas',
     'fnb_payment_calculatorshortcut': 'Shortcut',
     'fnb_payment_calculatormanual': 'Manual',
-    'fnb_payment_success': 'Pembayaran Berhasil',
-    'fnb_payment_charge': 'Kembalian',
+    'fnb_payment_success': 'Pembayaran Berhasil!',
+    'fnb_payment_change': 'Kembalian',
+    'fnb_payment_nochange': 'Tidak ada kembalian',
     'fnb_payment_successtitle':
         'Pembayaran Anda tercatat dalam daftar transaksi.',
     'fnb_payment_transactionid': 'ID Transaksi',
