@@ -87,5 +87,6 @@ class BettyFnBIdIDTranslation {
     'fnb_payment_taptodonetext':
         'Ketuk ‘Selesai’ jika Anda telah menyelesaikan proses pembayaran.',
     'fnb_payment_barcodescan': 'Scan Barcode Untuk Membayar',
+    'fnb_payment_mainpage': 'Halaman Utama',
   };
 }

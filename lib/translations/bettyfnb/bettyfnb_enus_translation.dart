@@ -87,5 +87,6 @@ class BettyFnBEnUSTranslation {
     'fnb_payment_taptodonetext':
         'Tap ‘Done’ if you have finished payment process.',
     'fnb_payment_barcodescan': 'Scan Barcode to Pay It',
+    'fnb_payment_mainpage': 'Main Page',
   };
 }
