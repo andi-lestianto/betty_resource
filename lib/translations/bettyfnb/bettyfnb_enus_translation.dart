@@ -83,6 +83,7 @@ class BettyFnBEnUSTranslation {
     'fnb_payment_statusunpaid': 'Unpaid',
     'fnb_payment_printsuccess': 'Your receipt has been successfully printed.',
     'fnb_payment_waiting': 'Waiting for Payment',
+    'fnb_payment_amountpaid': 'Amount paid',
     'fnb_payment_taptodonetext':
         'Tap ‘Done’ if you have finished payment process.',
     'fnb_payment_barcodescan': 'Scan Barcode to Pay It',

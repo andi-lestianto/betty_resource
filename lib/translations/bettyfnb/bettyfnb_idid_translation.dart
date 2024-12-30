@@ -83,6 +83,7 @@ class BettyFnBIdIDTranslation {
     'fnb_payment_statusunpaid': 'Belum Lunas',
     'fnb_payment_printsuccess': 'Struk Anda berhasil di cetak.',
     'fnb_payment_waiting': 'Menunggu Pembayaran',
+    'fnb_payment_amountpaid': 'Jumlah dibayar',
     'fnb_payment_taptodonetext':
         'Ketuk ‘Selesai’ jika Anda telah menyelesaikan proses pembayaran.',
     'fnb_payment_barcodescan': 'Scan Barcode Untuk Membayar',
