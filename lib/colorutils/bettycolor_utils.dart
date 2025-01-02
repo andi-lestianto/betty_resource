@@ -79,7 +79,6 @@ class GeneralColor {
   static Color clrF4F9FF = const Color(0xFFF4F9FF);
 
   static Color clrAF52DE = const Color(0xFFAF52DE);
-  static Color clrD6FDDF = const Color(0xFFD6FDDF);
 
   static List<Color> clrGradientGreentty = [
     const Color(0xFF38EF7D),
