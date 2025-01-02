@@ -179,4 +179,7 @@ class BettyIcon {
       '${path}assets/icon/ic-reserve-orange.svg';
   static const String icFilterSvg = '${path}assets/icon/ic-filter.svg';
   static const String icBackspaceSvg = '${path}assets/icon/ic-backspace.svg';
+  static const String icFilterSortSvg = '${path}assets/icon/ic-filter-sort.svg';
+  static const String icTickCircleSvg = '${path}assets/icon/ic-tick-circle.svg';
+  static const String icBoxTimeSvg = '${path}assets/icon/ic-box-time.svg';
 }
