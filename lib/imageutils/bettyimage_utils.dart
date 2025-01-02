@@ -95,4 +95,7 @@ class BettyImage {
   /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-bettylogo-text.png?raw=true)
   static const String imgLogoBettyTextGreen2Png =
       '${path}assets/image/img-bettylogo-text.png';
+
+  /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-debit.svg?raw=true)
+  static const String imgDebitSvg = '${path}assets/image/img-debit.svg';
 }

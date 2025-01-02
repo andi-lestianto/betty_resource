@@ -66,8 +66,9 @@ class BettyFnBEnUSTranslation {
     'fnb_payment_exactcash': 'Exact Cash',
     'fnb_payment_calculatorshortcut': 'Shortcut',
     'fnb_payment_calculatormanual': 'Manual',
-    'fnb_payment_success': 'Payment Success',
-    'fnb_payment_charge': 'Charge',
+    'fnb_payment_success': 'Payment Success!',
+    'fnb_payment_change': 'change',
+    'fnb_payment_nochange': 'No change',
     'fnb_payment_successtitle':
         'Your payment has recorded in the transaction list.',
     'fnb_payment_transactionid': 'Transaction ID',
@@ -83,8 +84,10 @@ class BettyFnBEnUSTranslation {
     'fnb_payment_statusunpaid': 'Unpaid',
     'fnb_payment_printsuccess': 'Your receipt has been successfully printed.',
     'fnb_payment_waiting': 'Waiting for Payment',
+    'fnb_payment_amountpaid': 'Amount paid',
     'fnb_payment_taptodonetext':
         'Tap ‘Done’ if you have finished payment process.',
     'fnb_payment_barcodescan': 'Scan Barcode to Pay It',
+    'fnb_payment_mainpage': 'Main Page',
   };
 }
