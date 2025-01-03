@@ -141,6 +141,7 @@ class BettyIcon {
   static const String icShopSvg = '${path}assets/icon/ic-shop.svg';
   static const String icShoppingSvg = '${path}assets/icon/ic-shopping.svg';
   static const String icSmsSvg = '${path}assets/icon/ic-sms.svg';
+  static const String icSmsWithBgSvg = '${path}assets/icon/ic-sms-withbg.svg';
   static const String icStarSvg = '${path}assets/icon/ic-star.svg';
   static const String icTablewareSvg = '${path}assets/icon/ic-tableware.svg';
   static const String icToggleOffSvg = '${path}assets/icon/ic-toggle-off.svg';
