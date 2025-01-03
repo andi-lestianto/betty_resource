@@ -87,10 +87,10 @@ class BettyMainEnUSTranslation {
     'main_forgetpassword_hinttext': 'Ex. example@email.com',
     'main_forgetpassword_submit': 'Submit',
     'main_forgetpassword_submittedtitle': 'Email has been submitted',
-    'main_forgetpassword_submittedsubtitle':
-        'Open the link we sent to @email to reset your password.',
+    'main_forgetpassword_submittedsubtitle1': 'Open the link we sent to ',
+    'main_forgetpassword_submittedsubtitle2': ' to reset your password.',
     'main_forgetpassword_close': 'Close',
-    'main_forgetpassword_resubmit': 'Re-Submit @timer',
+    'main_forgetpassword_resubmit': 'Re-Submit',
     'main_forgetpassword_changeemailtitle':
         'Still have not received the email? ',
     'main_forgetpassword_changeemailbtn': 'Change Email',

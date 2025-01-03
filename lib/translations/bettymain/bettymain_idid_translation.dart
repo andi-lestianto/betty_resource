@@ -87,10 +87,11 @@ class BettyMainIdIDTranslation {
     'main_forgetpassword_hinttext': 'Cth. example@email.com',
     'main_forgetpassword_submit': 'Kirim',
     'main_forgetpassword_submittedtitle': 'Email Telah Dikirim',
-    'main_forgetpassword_submittedsubtitle':
-        'Buka tautan yang kami kirim ke @email untuk mengatur ulang kata sandi Anda.',
+    'main_forgetpassword_submittedsubtitle1': 'Buka tautan yang kami kirim ke ',
+    'main_forgetpassword_submittedsubtitle2':
+        ' untuk mengatur ulang kata sandi Anda.',
     'main_forgetpassword_close': 'Tutup',
-    'main_forgetpassword_resubmit': 'Kirim Ulang @timer',
+    'main_forgetpassword_resubmit': 'Kirim Ulang',
     'main_forgetpassword_changeemailtitle': 'Masih belum menerima email? ',
     'main_forgetpassword_changeemailbtn': 'Ganti Email',
     // Select Profile
