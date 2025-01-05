@@ -1,5 +1,3 @@
-// ignore_for_file: camel_case_types
-
 class BettyMainIdIDTranslation {
   static Map<String, String> language = {
     // General
@@ -64,6 +62,10 @@ class BettyMainIdIDTranslation {
     'main_register_successsubtitlespan1': 'Periksa kotak email Anda ',
     'main_register_successsubtitlespan2':
         ' dan buka link untuk memverifikasi akun Anda.',
+    'main_register_passwordweak': 'Kata Sandi Lemah',
+    'main_register_passwordmedium': 'Kata Sandi Sedang',
+    'main_register_passwordstrong': 'Kata Sandi Kuat',
+    'main_register_passwordverystrong': 'Kata Sandi Sangat Kuat',
     // Business Data Input
     'main_business_businessdatatitle':
         'Lengkapi informasi usaha Anda sebagai langkah terakhir sebelum dapat menggunakan Betty.',

@@ -64,6 +64,10 @@ class BettyMainEnUSTranslation {
     'main_register_successsubtitlespan1': 'Check your email box ',
     'main_register_successsubtitlespan2':
         ' and open the link to verify your account.',
+    'main_register_passwordweak': 'Weak Password',
+    'main_register_passwordmedium': 'Medium Password',
+    'main_register_passwordstrong': 'Strong Password',
+    'main_register_passwordverystrong': 'Very Strong Password',
     // Business Data Input
     'main_business_businessdatatitle':
         'Complete your business information as the final step before you can use Betty.',
