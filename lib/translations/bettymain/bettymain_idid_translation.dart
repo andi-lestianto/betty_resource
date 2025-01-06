@@ -1,5 +1,3 @@
-// ignore_for_file: camel_case_types
-
 class BettyMainIdIDTranslation {
   static Map<String, String> language = {
     // General
@@ -64,6 +62,10 @@ class BettyMainIdIDTranslation {
     'main_register_successsubtitlespan1': 'Periksa kotak email Anda ',
     'main_register_successsubtitlespan2':
         ' dan buka link untuk memverifikasi akun Anda.',
+    'main_register_passwordweak': 'Kata Sandi Lemah',
+    'main_register_passwordmedium': 'Kata Sandi Sedang',
+    'main_register_passwordstrong': 'Kata Sandi Kuat',
+    'main_register_passwordverystrong': 'Kata Sandi Sangat Kuat',
     // Business Data Input
     'main_business_businessdatatitle':
         'Lengkapi informasi usaha Anda sebagai langkah terakhir sebelum dapat menggunakan Betty.',
@@ -87,10 +89,11 @@ class BettyMainIdIDTranslation {
     'main_forgetpassword_hinttext': 'Cth. example@email.com',
     'main_forgetpassword_submit': 'Kirim',
     'main_forgetpassword_submittedtitle': 'Email Telah Dikirim',
-    'main_forgetpassword_submittedsubtitle':
-        'Buka tautan yang kami kirim ke @email untuk mengatur ulang kata sandi Anda.',
+    'main_forgetpassword_submittedsubtitle1': 'Buka tautan yang kami kirim ke ',
+    'main_forgetpassword_submittedsubtitle2':
+        ' untuk mengatur ulang kata sandi Anda.',
     'main_forgetpassword_close': 'Tutup',
-    'main_forgetpassword_resubmit': 'Kirim Ulang @timer',
+    'main_forgetpassword_resubmit': 'Kirim Ulang',
     'main_forgetpassword_changeemailtitle': 'Masih belum menerima email? ',
     'main_forgetpassword_changeemailbtn': 'Ganti Email',
     // Select Profile

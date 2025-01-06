@@ -64,6 +64,10 @@ class BettyMainEnUSTranslation {
     'main_register_successsubtitlespan1': 'Check your email box ',
     'main_register_successsubtitlespan2':
         ' and open the link to verify your account.',
+    'main_register_passwordweak': 'Weak Password',
+    'main_register_passwordmedium': 'Medium Password',
+    'main_register_passwordstrong': 'Strong Password',
+    'main_register_passwordverystrong': 'Very Strong Password',
     // Business Data Input
     'main_business_businessdatatitle':
         'Complete your business information as the final step before you can use Betty.',
@@ -87,10 +91,10 @@ class BettyMainEnUSTranslation {
     'main_forgetpassword_hinttext': 'Ex. example@email.com',
     'main_forgetpassword_submit': 'Submit',
     'main_forgetpassword_submittedtitle': 'Email has been submitted',
-    'main_forgetpassword_submittedsubtitle':
-        'Open the link we sent to @email to reset your password.',
+    'main_forgetpassword_submittedsubtitle1': 'Open the link we sent to ',
+    'main_forgetpassword_submittedsubtitle2': ' to reset your password.',
     'main_forgetpassword_close': 'Close',
-    'main_forgetpassword_resubmit': 'Re-Submit @timer',
+    'main_forgetpassword_resubmit': 'Re-Submit',
     'main_forgetpassword_changeemailtitle':
         'Still have not received the email? ',
     'main_forgetpassword_changeemailbtn': 'Change Email',
