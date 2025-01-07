@@ -103,6 +103,14 @@ class BettyMainIdIDTranslation {
     'main_selectprofile_subtitle':
         'Pilih profil usaha dengan tepat untuk mulai berjualan.',
     'main_selectprofile_selectprofile': 'Mulai Sesi',
+    'main_selectprofile_startsessiontitle': 'Mulai Sesi Sekarang?',
+    'main_selectprofile_startsessionsubtitle':
+        'Mulai berjualan akan mencatat semua transaksi.',
+    'main_selectprofile_logouttitle': 'Keluar dari Akun?',
+    'main_selectprofile_logoutsubtitle':
+        'Setelah keluar, Anda harus login lagi.',
+    'main_selectprofile_logoutbtn': 'Keluar',
+    'main_selectprofile_cancelbtn': 'Batalkan',
     // Permission
     'main_permission_title': 'Perizinan Akses',
     'main_permission_subtitle':

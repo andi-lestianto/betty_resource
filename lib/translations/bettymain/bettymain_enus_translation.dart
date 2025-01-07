@@ -104,7 +104,15 @@ class BettyMainEnUSTranslation {
     'main_selectprofile_title': 'Choose business profile',
     'main_selectprofile_subtitle':
         'Choose the correct business profile to start selling.',
-    'main_selectprofile_selectprofile': 'Select and Start Shift',
+    'main_selectprofile_selectprofile': 'Start Session',
+    'main_selectprofile_startsessiontitle': 'Start Session Now?',
+    'main_selectprofile_startsessionsubtitle':
+        'Starting to sell will record all transactions.',
+    'main_selectprofile_logouttitle': 'Exit Account?',
+    'main_selectprofile_logoutsubtitle':
+        'After logging out, you must log in again.',
+    'main_selectprofile_logoutbtn': 'Logout',
+    'main_selectprofile_cancelbtn': 'Cancel',
     // Permission
     'main_permission_title': 'Access Permissions',
     'main_permission_subtitle':
