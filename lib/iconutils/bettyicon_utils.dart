@@ -26,6 +26,8 @@ class BettyIcon {
   static const String icSaleOfItemSvg =
       '${path}assets/icon/ic-sales-of-item.svg';
   static const String icBluetoothSvg = '${path}assets/icon/ic-bluetooth.svg';
+  static const String icBluetoothWithbgSvg =
+      '${path}assets/icon/ic-bluetooth-withbg.svg';
   static const String icBoxSvg = '${path}assets/icon/ic-box.svg';
   static const String icBoxTickActiveSvg =
       '${path}assets/icon/ic-box-tick-active.svg';
@@ -195,4 +197,6 @@ class BettyIcon {
   static const String icLocationWithbgSvg =
       '${path}assets/icon/ic-location-withbg.svg';
   static const String icStorageSvg = '${path}assets/icon/ic-storage.svg';
+  static const String icTickCircleGreySvg =
+      '${path}assets/icon/ic-tick-circle-grey.svg';
 }
