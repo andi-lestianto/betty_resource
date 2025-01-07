@@ -70,6 +70,18 @@ class BettyImage {
   static const String imgOnboarding3Png =
       '${path}assets/image/img-onboarding3.png';
 
+  /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-new-onboarding1.png?raw=true)
+  static const String imgNewOnboarding1Png =
+      '${path}assets/image/img-new-onboarding1.png';
+
+  /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-new-onboarding2.png?raw=true)
+  static const String imgNewOnboarding2Png =
+      '${path}assets/image/img-new-onboarding2.png';
+
+  /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-new-onboarding3.png?raw=true)
+  static const String imgNewOnboarding3Png =
+      '${path}assets/image/img-new-onboarding3.png';
+
   /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-bg-auth.png?raw=true)
   static const String imgBgAuthPng = '${path}assets/image/img-bg-auth.png';
 
@@ -98,4 +110,11 @@ class BettyImage {
 
   /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-debit.svg?raw=true)
   static const String imgDebitSvg = '${path}assets/image/img-debit.svg';
+
+  /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-send-message.svg?raw=true)
+  static const String imgSendMessageSvg =
+      '${path}assets/image/img-send-message.svg';
+
+  /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-auth-new.png?raw=true)
+  static const String imgAuthNewPng = '${path}assets/image/img-auth-new.png';
 }

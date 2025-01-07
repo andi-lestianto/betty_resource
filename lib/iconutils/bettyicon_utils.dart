@@ -183,4 +183,16 @@ class BettyIcon {
   static const String icFilterSortSvg = '${path}assets/icon/ic-filter-sort.svg';
   static const String icTickCircleSvg = '${path}assets/icon/ic-tick-circle.svg';
   static const String icBoxTimeSvg = '${path}assets/icon/ic-box-time.svg';
+  static const String icTickCircleSuccessSvg =
+      '${path}assets/icon/ic-tick-circle-success.svg';
+  static const String appLogoTextWhiteSvg =
+      '${path}assets/icon/bettylogo-text-white.svg';
+  static const String icDocumentUploadSvg =
+      '${path}assets/icon/ic-document-upload.svg';
+  static const String icGalleryGreenSvg =
+      '${path}assets/icon/ic-gallery-green.svg';
+  static const String icGoogleSvg = '${path}assets/icon/ic-google.svg';
+  static const String icLocationWithbgSvg =
+      '${path}assets/icon/ic-location-withbg.svg';
+  static const String icStorageSvg = '${path}assets/icon/ic-storage.svg';
 }
