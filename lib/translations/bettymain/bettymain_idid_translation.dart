@@ -14,6 +14,7 @@ class BettyMainIdIDTranslation {
     'main_general_close': 'Tutup',
     'main_general_continue': 'Lanjutkan',
     'main_general_or': 'atau',
+    'main_general_logout': 'Keluar',
     // Login
     'main_login_title': 'Selamat datang di ',
     'main_login_subtitle':
@@ -101,7 +102,7 @@ class BettyMainIdIDTranslation {
     'main_selectprofile_title': 'Pilih profil usaha',
     'main_selectprofile_subtitle':
         'Pilih profil usaha dengan tepat untuk mulai berjualan.',
-    'main_selectprofile_selectprofile': 'Pilih dan Mulai Shift',
+    'main_selectprofile_selectprofile': 'Mulai Sesi',
     // Permission
     'main_permission_title': 'Perizinan Akses',
     'main_permission_subtitle':

@@ -14,6 +14,7 @@ class BettyMainEnUSTranslation {
     'main_general_close': 'Close',
     'main_general_continue': 'Continue',
     'main_general_or': 'or',
+    'main_general_logout': 'Logout',
     // Login
     'main_login_title': 'Welcome to ',
     'main_login_subtitle':
