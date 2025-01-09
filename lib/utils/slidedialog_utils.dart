@@ -3,7 +3,9 @@ import 'package:flutter/material.dart';
 class SlideDialog {
   static slideFromBottom(
       {required BuildContext context, required Widget child}) async {
-    await Future.delayed(Duration.zero).then((value) => showGeneralDialog(
+    await Future.delayed(Duration.zero).then((value) {
+      if (context.mounted) {
+        showGeneralDialog(
           transitionDuration: const Duration(milliseconds: 500),
           context: context,
           pageBuilder: (context, anim1, anim2) => child,
@@ -14,6 +16,8 @@ class SlideDialog {
                 .animate(animation),
             child: child,
           ),
-        ));
+        );
+      }
+    });
   }
 }

@@ -23,6 +23,7 @@ class BettyFnBEnUSTranslation {
     'fnb_general_done': 'Done',
     'fnb_general_total': 'Total',
     'fnb_general_print': 'Print',
+    'fnb_general_version': 'Version @version',
     // NavBar
     'fnb_navbar_menu': 'Menu',
     'fnb_navbar_report': 'Report',
@@ -89,5 +90,19 @@ class BettyFnBEnUSTranslation {
         'Tap ‘Done’ if you have finished payment process.',
     'fnb_payment_barcodescan': 'Scan Barcode to Pay It',
     'fnb_payment_mainpage': 'Main Page',
+    // Settings
+    'fnb_settings_settings': 'Setting',
+    'fnb_settings_account': 'Account',
+    'fnb_settings_language': 'Language',
+    'fnb_settings_connectivity': 'Connectivity',
+    'fnb_settings_privacypolicy': 'Privacy Policy',
+    'fnb_settings_termandservice': 'Term & Service',
+    'fnb_settings_feedback': 'Feedback',
+    'fnb_settings_rate': 'Give Rate Betty',
+    'fnb_settings_sync': 'Data Synchronization',
+    'fnb_settings_lastsync': 'Last sync: @datetime',
+    'fnb_settings_info':
+        'Your data is automatically synchronized periodically by the system.',
+    'fnb_settings_syncsuccess': 'Data synchronized successfully.',
   };
 }

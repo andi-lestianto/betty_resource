@@ -26,6 +26,8 @@ class BettyIcon {
   static const String icSaleOfItemSvg =
       '${path}assets/icon/ic-sales-of-item.svg';
   static const String icBluetoothSvg = '${path}assets/icon/ic-bluetooth.svg';
+  static const String icBluetoothWithbgSvg =
+      '${path}assets/icon/ic-bluetooth-withbg.svg';
   static const String icBoxSvg = '${path}assets/icon/ic-box.svg';
   static const String icBoxTickActiveSvg =
       '${path}assets/icon/ic-box-tick-active.svg';
@@ -197,4 +199,20 @@ class BettyIcon {
   static const String icStorageSvg = '${path}assets/icon/ic-storage.svg';
   static const String icDangerRedBgSvg =
       '${path}assets/icon/ic-danger-redbg.svg';
+  static const String icTickCircleGreySvg =
+      '${path}assets/icon/ic-tick-circle-grey.svg';
+  static const String icArchiveBookFilledSvg =
+      '${path}assets/icon/ic-archive-book-filled.svg';
+  static const String icBluetoothFilledSvg =
+      '${path}assets/icon/ic-bluetooth-filled.svg';
+  static const String icLanguageSquareFilledSvg =
+      '${path}assets/icon/ic-language-square-filled.svg';
+  static const String icMedalStarFilledSvg =
+      '${path}assets/icon/ic-medal-star-filled.svg';
+  static const String icMessages3FilledSvg =
+      '${path}assets/icon/ic-messages-3-filled.svg';
+  static const String icProfileFilledSvg =
+      '${path}assets/icon/ic-profile-filled.svg';
+  static const String icShieldFilledSvg =
+      '${path}assets/icon/ic-shield-filled.svg';
 }

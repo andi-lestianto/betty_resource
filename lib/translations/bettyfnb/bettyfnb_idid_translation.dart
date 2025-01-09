@@ -23,6 +23,7 @@ class BettyFnBIdIDTranslation {
     'fnb_general_done': 'Selesai',
     'fnb_general_total': 'Total',
     'fnb_general_print': 'Cetak',
+    'fnb_general_version': 'Versi @version',
     // NavBar
     'fnb_navbar_menu': 'Menu',
     'fnb_navbar_report': 'Laporan',
@@ -89,5 +90,19 @@ class BettyFnBIdIDTranslation {
         'Ketuk ‘Selesai’ jika Anda telah menyelesaikan proses pembayaran.',
     'fnb_payment_barcodescan': 'Scan Barcode Untuk Membayar',
     'fnb_payment_mainpage': 'Halaman Utama',
+    // Settings
+    'fnb_settings_settings': 'Pengaturan',
+    'fnb_settings_account': 'Akun',
+    'fnb_settings_language': 'Bahasa',
+    'fnb_settings_connectivity': 'Konektivitas',
+    'fnb_settings_privacypolicy': 'Kebijakan Privasi',
+    'fnb_settings_termandservice': 'Syarat & Ketentuan',
+    'fnb_settings_feedback': 'Masukan',
+    'fnb_settings_rate': 'Beri Nilai Betty',
+    'fnb_settings_sync': 'Sinkronisasi Data',
+    'fnb_settings_lastsync': 'Terakhir disinkronisasi: @datetime',
+    'fnb_settings_info':
+        'Data Anda disinkronisasi otomatis secara berkala oleh sistem.',
+    'fnb_settings_syncsuccess': 'Data berhasil disinkronisasi.',
   };
 }
