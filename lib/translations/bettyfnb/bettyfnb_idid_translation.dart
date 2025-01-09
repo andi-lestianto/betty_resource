@@ -94,7 +94,7 @@ class BettyFnBIdIDTranslation {
     'fnb_settings_settings': 'Pengaturan',
     'fnb_settings_account': 'Akun',
     'fnb_settings_language': 'Bahasa',
-    'fnb_settings_connectivityn': 'Konektivitas',
+    'fnb_settings_connectivity': 'Konektivitas',
     'fnb_settings_privacypolicy': 'Kebijakan Privasi',
     'fnb_settings_termandservice': 'Syarat & Ketentuan',
     'fnb_settings_feedback': 'Masukan',
