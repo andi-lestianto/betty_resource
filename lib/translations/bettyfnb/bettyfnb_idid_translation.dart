@@ -23,6 +23,7 @@ class BettyFnBIdIDTranslation {
     'fnb_general_done': 'Selesai',
     'fnb_general_total': 'Total',
     'fnb_general_print': 'Cetak',
+    'fnb_general_version': 'Versi @version',
     // NavBar
     'fnb_navbar_menu': 'Menu',
     'fnb_navbar_report': 'Laporan',

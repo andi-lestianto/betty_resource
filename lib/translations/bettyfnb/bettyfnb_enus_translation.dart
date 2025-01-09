@@ -23,6 +23,7 @@ class BettyFnBEnUSTranslation {
     'fnb_general_done': 'Done',
     'fnb_general_total': 'Total',
     'fnb_general_print': 'Print',
+    'fnb_general_version': 'Version @version',
     // NavBar
     'fnb_navbar_menu': 'Menu',
     'fnb_navbar_report': 'Report',
