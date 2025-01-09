@@ -195,4 +195,6 @@ class BettyIcon {
   static const String icLocationWithbgSvg =
       '${path}assets/icon/ic-location-withbg.svg';
   static const String icStorageSvg = '${path}assets/icon/ic-storage.svg';
+  static const String icDangerRedBgSvg =
+      '${path}assets/icon/ic-danger-redbg.svg';
 }
