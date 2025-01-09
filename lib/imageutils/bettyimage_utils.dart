@@ -117,4 +117,7 @@ class BettyImage {
 
   /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-auth-new.png?raw=true)
   static const String imgAuthNewPng = '${path}assets/image/img-auth-new.png';
+
+  /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-insync.svg?raw=true)
+  static const String imgInSyncSvg = '${path}assets/image/img-insync.svg';
 }
