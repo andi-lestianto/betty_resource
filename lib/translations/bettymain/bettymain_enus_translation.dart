@@ -151,19 +151,5 @@ class BettyMainEnUSTranslation {
         'Track Progress with Automated Sales Reports',
     'main_onboarding_subtitlecontent3':
         'Easily monitor your business performance, from total monthly, weekly, and daily sales!',
-    // Settings
-    'fnb_settings_settings': 'Setting',
-    'fnb_settings_account': 'Account',
-    'fnb_settings_language': 'Language',
-    'fnb_settings_connectivity': 'Connectivity',
-    'fnb_settings_privacypolicy': 'Privacy Policy',
-    'fnb_settings_termandservice': 'Term & Service',
-    'fnb_settings_feedback': 'Feedback',
-    'fnb_settings_rate': 'Give Rate Betty',
-    'fnb_settings_sync': 'Data Synchronization',
-    'fnb_settings_lastsync': 'Last sync: @datetime',
-    'fnb_settings_info':
-        'Your data is automatically synchronized periodically by the system.',
-    'fnb_settings_syncsuccess': 'Data synchronized successfully.',
   };
 }
