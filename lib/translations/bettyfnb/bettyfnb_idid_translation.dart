@@ -121,6 +121,14 @@ class BettyFnBIdIDTranslation {
         'Perubahan pada profil Anda berhasil disimpan.',
     'fnb_settings_profilefaileduploadphototitle': 'Gagal Mengunggah Gambar',
     'fnb_settings_profilefaileduploadphotosubtitle':
-        'Ukuran gambar melebihi 2 MB.'
+        'Ukuran gambar melebihi 2 MB.',
+    'fnb_settings_languagetitleconfirmation': 'Ubah Bahasa?',
+    'fnb_settings_languagesubtitleconfirmation':
+        'Anda akan mengganti bahasa aplikasi ke @language. Perubahan ini akan diterapkan secara otomatis.',
+    'fnb_settings_languagebtnconfirmation': 'Ya, Ubah',
+    'fnb_settings_languagebtncancel': 'Batal',
+    'fnb_settings_languagesuccesstitle': 'Berhasil Diubah',
+    'fnb_settings_languagesuccesssubtitle':
+        'Bahasa Anda berhasil diubah ke @language.'
   };
 }
