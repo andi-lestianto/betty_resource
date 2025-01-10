@@ -221,4 +221,5 @@ class BettyIcon {
       '${path}assets/icon/ic-minus-square-bulk.svg';
   static const String icWarningHexagonSvg =
       '${path}assets/icon/ic-warning-hexagon.svg';
+  static const String icStatusSvg = '${path}assets/icon/ic-status.svg';
 }
