@@ -104,5 +104,21 @@ class BettyFnBEnUSTranslation {
     'fnb_settings_info':
         'Your data is automatically synchronized periodically by the system.',
     'fnb_settings_syncsuccess': 'Data synchronized successfully.',
+    'fnb_settings_profilename': 'Name',
+    'fnb_settings_profileemail': 'Email',
+    'fnb_settings_profilephone': 'Phone Number',
+    'fnb_settings_profileuploadphoto': 'Upload Photo',
+    'fnb_settings_profileinfophoto': 'Maximum Size: 2 MB',
+    'fnb_settings_profilesavechange': 'Save Changes',
+    'fnb_settings_profilechangepassword': 'Change Password',
+    'fnb_settings_profilecanceltitle': 'Cancel Changes?',
+    'fnb_settings_profilecancelsubtitle': 'Changes you make will not be saved.',
+    'fnb_settings_profilecancelbtn': 'Yes, Cancel',
+    'fnb_settings_profilebacktoedit': 'Back to Edit',
+    'fnb_settings_profilesuccesstitle': 'Saved Changes',
+    'fnb_settings_profilesuccesssubtitle':
+        'Changes to your profile have been successfully saved.',
+    'fnb_settings_profilefaileduploadphototitle': 'Failed to Upload Image',
+    'fnb_settings_profilefaileduploadphotosubtitle': 'Image size exceeds 2 MB.'
   };
 }

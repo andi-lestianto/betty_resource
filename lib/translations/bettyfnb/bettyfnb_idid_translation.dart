@@ -104,5 +104,23 @@ class BettyFnBIdIDTranslation {
     'fnb_settings_info':
         'Data Anda disinkronisasi otomatis secara berkala oleh sistem.',
     'fnb_settings_syncsuccess': 'Data berhasil disinkronisasi.',
+    'fnb_settings_profilename': 'Nama',
+    'fnb_settings_profileemail': 'Email',
+    'fnb_settings_profilephone': 'Nomor Telepon',
+    'fnb_settings_profileuploadphoto': 'Unggah Foto',
+    'fnb_settings_profileinfophoto': 'Ukuran Maksimum: 2 MB',
+    'fnb_settings_profilesavechange': 'Simpan Perubahan',
+    'fnb_settings_profilechangepassword': 'Ubah Kata Sandi',
+    'fnb_settings_profilecanceltitle': 'Batalkan Perubahan?',
+    'fnb_settings_profilecancelsubtitle':
+        'Perubahan yang Anda buat tidak akan disimpan.',
+    'fnb_settings_profilecancelbtn': 'Ya, Batalkan',
+    'fnb_settings_profilebacktoedit': 'Kembali Mengedit',
+    'fnb_settings_profilesuccesstitle': 'Perubahan Disimpan',
+    'fnb_settings_profilesuccesssubtitle':
+        'Perubahan pada profil Anda berhasil disimpan.',
+    'fnb_settings_profilefaileduploadphototitle': 'Gagal Mengunggah Gambar',
+    'fnb_settings_profilefaileduploadphotosubtitle':
+        'Ukuran gambar melebihi 2 MB.'
   };
 }

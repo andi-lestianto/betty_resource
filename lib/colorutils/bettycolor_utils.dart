@@ -72,6 +72,7 @@ class GeneralColor {
   static Color clrFFA054 = const Color(0xFFFFA054);
   static Color clrFF7D75 = const Color(0xFFFF7D75);
   static Color clrFFF5F4 = const Color(0xFFFFF5F4);
+  static Color clrFFBFB9 = const Color(0xFFFFBFB9);
 
   static Color clrFF3B2F = const Color(0xFFFF3B2F);
   static Color clrFFD6B4 = const Color(0xFFFFD6B4);
