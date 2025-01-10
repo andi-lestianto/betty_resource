@@ -119,6 +119,14 @@ class BettyFnBEnUSTranslation {
     'fnb_settings_profilesuccesssubtitle':
         'Changes to your profile have been successfully saved.',
     'fnb_settings_profilefaileduploadphototitle': 'Failed to Upload Image',
-    'fnb_settings_profilefaileduploadphotosubtitle': 'Image size exceeds 2 MB.'
+    'fnb_settings_profilefaileduploadphotosubtitle': 'Image size exceeds 2 MB.',
+    'fnb_settings_languagetitleconfirmation': 'Change Language?',
+    'fnb_settings_languagesubtitleconfirmation':
+        'You will change the application language to @language. These changes will be applied automatically.',
+    'fnb_settings_languagebtnconfirmation': 'Yes, Change',
+    'fnb_settings_languagebtncancel': 'Cancel',
+    'fnb_settings_languagesuccesstitle': 'Changed Successfully',
+    'fnb_settings_languagesuccesssubtitle':
+        'Your language has been successfully changed to @language.'
   };
 }
