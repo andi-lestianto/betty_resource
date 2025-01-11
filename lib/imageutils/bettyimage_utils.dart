@@ -120,4 +120,8 @@ class BettyImage {
 
   /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-insync.svg?raw=true)
   static const String imgInSyncSvg = '${path}assets/image/img-insync.svg';
+
+  /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-customer-feedback.svg?raw=true)
+  static const String imgCustomerFeedback =
+      '${path}assets/image/img-customer-feedback.svg';
 }

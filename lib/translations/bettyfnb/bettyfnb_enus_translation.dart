@@ -127,6 +127,18 @@ class BettyFnBEnUSTranslation {
     'fnb_settings_languagebtncancel': 'Cancel',
     'fnb_settings_languagesuccesstitle': 'Changed Successfully',
     'fnb_settings_languagesuccesssubtitle':
-        'Your language has been successfully changed to @language.'
+        'Your language has been successfully changed to @language.',
+    'fnb_settings_feedbacktitle': 'Your Feedback is Valuable',
+    'fnb_settings_feedbacksubtitle': 'Help Betty get better!',
+    'fnb_settings_feedbackfeedback': 'Feedback',
+    'fnb_settings_feedbackreport': 'Report',
+    'fnb_settings_feedbackratetitle': 'How was your experience using Betty?',
+    'fnb_settings_feedbackdisappointed': 'Disappointed',
+    'fnb_settings_feedbacksatisfied': 'Satisfied',
+    'fnb_settings_feedbackfeedtitle': 'How can Betty be better?',
+    'fnb_settings_feedbackfeedhint': 'Write your input here',
+    'fnb_settings_feedbackreporttitle': 'What is your complaint?',
+    'fnb_settings_feedbackreporthint': 'Write your complaint here',
+    'fnb_settings_uploadimage': 'Upload Image',
   };
 }
