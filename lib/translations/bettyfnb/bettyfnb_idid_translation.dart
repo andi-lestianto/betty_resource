@@ -129,6 +129,19 @@ class BettyFnBIdIDTranslation {
     'fnb_settings_languagebtncancel': 'Batal',
     'fnb_settings_languagesuccesstitle': 'Berhasil Diubah',
     'fnb_settings_languagesuccesssubtitle':
-        'Bahasa Anda berhasil diubah ke @language.'
+        'Bahasa Anda berhasil diubah ke @language.',
+    'fnb_settings_feedbacktitle': 'Umpan Balik Anda Berharga',
+    'fnb_settings_feedbacksubtitle': 'Bantu Betty menjadi lebih baik!',
+    'fnb_settings_feedbackfeedback': 'Masukan',
+    'fnb_settings_feedbackreport': 'Laporan',
+    'fnb_settings_feedbackratetitle':
+        'Bagaimana pengalaman Anda menggunakan Betty?',
+    'fnb_settings_feedbackdisappointed': 'Kecewa',
+    'fnb_settings_feedbacksatisfied': 'Puas',
+    'fnb_settings_feedbackfeedtitle': 'Bagaimana agar Betty lebih baik?',
+    'fnb_settings_feedbackfeedhint': 'Tulis masukan Anda disini',
+    'fnb_settings_feedbackreporttitle': 'Apa keluhan Anda?',
+    'fnb_settings_feedbackreporthint': 'Tulis keluhan Anda disini',
+    'fnb_settings_uploadimage': 'Unggah Gambar',
   };
 }
