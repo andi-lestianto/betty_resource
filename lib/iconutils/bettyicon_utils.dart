@@ -225,4 +225,9 @@ class BettyIcon {
       '${path}assets/icon/ic-warning-hexagon.svg';
   static const String icStatusSvg = '${path}assets/icon/ic-status.svg';
   static const String icArrowLeftSvg = '${path}assets/icon/ic-arrow-left.svg';
+  static const String icStarNewSvg = '${path}assets/icon/ic-star-new.svg';
+  static const String icStarNewHoverSvg =
+      '${path}assets/icon/ic-star-new-hover.svg';
+  static const String icStarNewFilledSvg =
+      '${path}assets/icon/ic-star-new-filled.svg';
 }
