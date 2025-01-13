@@ -143,5 +143,8 @@ class BettyFnBIdIDTranslation {
     'fnb_settings_feedbackreporttitle': 'Apa keluhan Anda?',
     'fnb_settings_feedbackreporthint': 'Tulis keluhan Anda disini',
     'fnb_settings_uploadimage': 'Unggah Gambar',
+    'fnb_settings_feedbacksuccesstitle': 'Terimakasih!',
+    'fnb_settings_feedbacksuccesssubtitle':
+        'Umpan balik Anda telah berhasil dikirim dan akan segera diterima oleh tim kami.',
   };
 }

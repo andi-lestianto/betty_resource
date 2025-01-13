@@ -140,5 +140,8 @@ class BettyFnBEnUSTranslation {
     'fnb_settings_feedbackreporttitle': 'What is your complaint?',
     'fnb_settings_feedbackreporthint': 'Write your complaint here',
     'fnb_settings_uploadimage': 'Upload Image',
+    'fnb_settings_feedbacksuccesstitle': 'Thanks!',
+    'fnb_settings_feedbacksuccesssubtitle':
+        'Your feedback has been successfully submitted and will be received by our team shortly.',
   };
 }
