@@ -119,6 +119,8 @@ class BettyFnBIdIDTranslation {
     'fnb_settings_profilesuccesstitle': 'Perubahan Disimpan',
     'fnb_settings_profilesuccesssubtitle':
         'Perubahan pada profil Anda berhasil disimpan.',
+    'fnb_settings_profilechangepasswordsuccess':
+        'Perubahan kata sandi Anda berhasil disimpan.',
     'fnb_settings_profilefaileduploadphototitle': 'Gagal Mengunggah Gambar',
     'fnb_settings_profilefaileduploadphotosubtitle':
         'Ukuran gambar melebihi 2 MB.',

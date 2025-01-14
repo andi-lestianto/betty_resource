@@ -118,6 +118,8 @@ class BettyFnBEnUSTranslation {
     'fnb_settings_profilesuccesstitle': 'Saved Changes',
     'fnb_settings_profilesuccesssubtitle':
         'Changes to your profile have been successfully saved.',
+    'fnb_settings_profilechangepasswordsuccess':
+        'Your password change was saved successfully.',
     'fnb_settings_profilefaileduploadphototitle': 'Failed to Upload Image',
     'fnb_settings_profilefaileduploadphotosubtitle': 'Image size exceeds 2 MB.',
     'fnb_settings_languagetitleconfirmation': 'Change Language?',
