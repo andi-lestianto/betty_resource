@@ -128,6 +128,10 @@ class BettyFnBIdIDTranslation {
         'Kata sandi harus terdiri dari 8+ karakter',
     'fnb_settings_profilechangepasswordsuccess':
         'Perubahan kata sandi Anda berhasil disimpan.',
+    'fnb_settings_passwordweak': 'Kata Sandi Lemah',
+    'fnb_settings_passwordmedium': 'Kata Sandi Sedang',
+    'fnb_settings_passwordstrong': 'Kata Sandi Kuat',
+    'fnb_settings_passwordverystrong': 'Kata Sandi Sangat Kuat',
     'fnb_settings_profilefaileduploadphototitle': 'Gagal Mengunggah Gambar',
     'fnb_settings_profilefaileduploadphotosubtitle':
         'Ukuran gambar melebihi 2 MB.',

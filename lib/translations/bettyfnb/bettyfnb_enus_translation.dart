@@ -126,6 +126,10 @@ class BettyFnBEnUSTranslation {
         'Password must contains at least 8 characters.',
     'fnb_settings_profilechangepasswordsuccess':
         'Your password change was saved successfully.',
+    'fnb_settings_passwordweak': 'Weak Password',
+    'fnb_settings_passwordmedium': 'Medium Password',
+    'fnb_settings_passwordstrong': 'Strong Password',
+    'fnb_settings_passwordverystrong': 'Very Strong Password',
     'fnb_settings_profilefaileduploadphototitle': 'Failed to Upload Image',
     'fnb_settings_profilefaileduploadphotosubtitle': 'Image size exceeds 2 MB.',
     'fnb_settings_languagetitleconfirmation': 'Change Language?',
