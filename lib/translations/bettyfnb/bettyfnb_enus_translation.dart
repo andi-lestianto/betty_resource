@@ -118,6 +118,12 @@ class BettyFnBEnUSTranslation {
     'fnb_settings_profilesuccesstitle': 'Saved Changes',
     'fnb_settings_profilesuccesssubtitle':
         'Changes to your profile have been successfully saved.',
+    'fnb_settings_profilechangepasswordlabel': 'New Password',
+    'fnb_settings_profilechangepasswordhinttext': 'Type new password',
+    'fnb_settings_profilechangepasswordconfirmlabel': 'Confirm Password',
+    'fnb_settings_profilechangepasswordconfirmhinttext': 'Re-type password',
+    'fnb_settings_profilechangepasswordrequired':
+        'Password must contains at least 8 characters.',
     'fnb_settings_profilechangepasswordsuccess':
         'Your password change was saved successfully.',
     'fnb_settings_profilefaileduploadphototitle': 'Failed to Upload Image',

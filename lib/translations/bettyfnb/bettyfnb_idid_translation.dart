@@ -119,6 +119,13 @@ class BettyFnBIdIDTranslation {
     'fnb_settings_profilesuccesstitle': 'Perubahan Disimpan',
     'fnb_settings_profilesuccesssubtitle':
         'Perubahan pada profil Anda berhasil disimpan.',
+    'fnb_settings_profilechangepasswordlabel': 'Kata Sandi Baru',
+    'fnb_settings_profilechangepasswordhinttext': 'Ketik kata sandi',
+    'fnb_settings_profilechangepasswordconfirmlabel': 'Konfirmasi Kata Sandi',
+    'fnb_settings_profilechangepasswordconfirmhinttext':
+        'Ketik ulang kata sandi',
+    'fnb_settings_profilechangepasswordrequired':
+        'Kata sandi harus terdiri dari 8+ karakter',
     'fnb_settings_profilechangepasswordsuccess':
         'Perubahan kata sandi Anda berhasil disimpan.',
     'fnb_settings_profilefaileduploadphototitle': 'Gagal Mengunggah Gambar',
