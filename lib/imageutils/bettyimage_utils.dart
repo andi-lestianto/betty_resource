@@ -122,6 +122,6 @@ class BettyImage {
   static const String imgInSyncSvg = '${path}assets/image/img-insync.svg';
 
   /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-customer-feedback.svg?raw=true)
-  static const String imgCustomerFeedback =
+  static const String imgCustomerFeedbackSvg =
       '${path}assets/image/img-customer-feedback.svg';
 }

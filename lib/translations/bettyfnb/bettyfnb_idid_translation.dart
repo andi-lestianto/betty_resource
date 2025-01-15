@@ -119,6 +119,19 @@ class BettyFnBIdIDTranslation {
     'fnb_settings_profilesuccesstitle': 'Perubahan Disimpan',
     'fnb_settings_profilesuccesssubtitle':
         'Perubahan pada profil Anda berhasil disimpan.',
+    'fnb_settings_profilechangepasswordlabel': 'Kata Sandi Baru',
+    'fnb_settings_profilechangepasswordhinttext': 'Ketik kata sandi',
+    'fnb_settings_profilechangepasswordconfirmlabel': 'Konfirmasi Kata Sandi',
+    'fnb_settings_profilechangepasswordconfirmhinttext':
+        'Ketik ulang kata sandi',
+    'fnb_settings_profilechangepasswordrequired':
+        'Kata sandi harus terdiri dari 8+ karakter',
+    'fnb_settings_profilechangepasswordsuccess':
+        'Perubahan kata sandi Anda berhasil disimpan.',
+    'fnb_settings_passwordweak': 'Kata Sandi Lemah',
+    'fnb_settings_passwordmedium': 'Kata Sandi Sedang',
+    'fnb_settings_passwordstrong': 'Kata Sandi Kuat',
+    'fnb_settings_passwordverystrong': 'Kata Sandi Sangat Kuat',
     'fnb_settings_profilefaileduploadphototitle': 'Gagal Mengunggah Gambar',
     'fnb_settings_profilefaileduploadphotosubtitle':
         'Ukuran gambar melebihi 2 MB.',
@@ -143,5 +156,75 @@ class BettyFnBIdIDTranslation {
     'fnb_settings_feedbackreporttitle': 'Apa keluhan Anda?',
     'fnb_settings_feedbackreporthint': 'Tulis keluhan Anda disini',
     'fnb_settings_uploadimage': 'Unggah Gambar',
+    'fnb_settings_feedbacksuccesstitle': 'Terimakasih!',
+    'fnb_settings_feedbacksuccesssubtitle':
+        'Umpan balik Anda telah berhasil dikirim dan akan segera diterima oleh tim kami.',
+    // Terms & Condition
+    'fnb_settings_termsandconditionstitle1': 'Penerimaan Ketentuan',
+    'fnb_settings_termsandconditionstitle1sub':
+        'Dengan mengakses atau menggunakan Betty, Anda setuju untuk mematuhi Ketentuan Layanan ini. Jika Anda tidak setuju dengan bagian mana pun dari ketentuan ini, mohon untuk tidak menggunakan layanan kami.',
+    'fnb_settings_termsandconditionstitle2': 'Penggunaan Layanan',
+    'fnb_settings_termsandconditionstitle2sub1':
+        'Kelayakan: Anda harus berusia minimal 18 tahun untuk menggunakan Betty. Dengan menggunakan layanan tersebut, Anda menegaskan bahwa Anda cukup umur. ',
+    'fnb_settings_termsandconditionstitle2sub2':
+        'Tanggung Jawab Akun: Anda bertanggung jawab untuk menjaga keamanan akun Anda. Jangan membagikan kredensial akun Anda, dan segera beri tahu kami jika Anda mencurigai adanya akses yang tidak sah.',
+    'fnb_settings_termsandconditionstitle3': 'Modifikasi Layanan',
+    'fnb_settings_termsandconditionstitle3sub':
+        'Betty berhak untuk mengubah atau menghentikan aspek apa pun dari layanan kapan saja. Kami akan memberi tahu Anda tentang perubahan signifikan, tetapi Anda bertanggung jawab untuk meninjau persyaratan ini secara teratur',
+    'fnb_settings_termsandconditionstitle4': 'Properti Intelektual',
+    'fnb_settings_termsandconditionstitle4sub':
+        'Semua konten dan fitur yang tersedia di Betty adalah milik Betty dan dilindungi oleh undang-undang hak cipta dan merek dagang yang berlaku.',
+    'fnb_settings_termsandconditionstitle5': 'Perilaku Pelanggan',
+    'fnb_settings_termsandconditionstitle5sub':
+        'Aktivitas yang Dilarang: Anda setuju untuk tidak terlibat dalam aktivitas terlarang, termasuk namun tidak terbatas pada peretasan, penambangan data, atau tindakan apa pun yang dapat mengganggu integritas Betty.',
+    'fnb_settings_termsandconditionstitle6': 'Privasi',
+    'fnb_settings_termsandconditionstitle6sub':
+        'Penggunaan Betty oleh Anda juga diatur oleh Kebijakan Privasi kami. Harap tinjau kebijakan untuk memahami bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi Anda.',
+    'fnb_settings_termsandconditionstitle7': 'Batasan Tanggung Jawab',
+    'fnb_settings_termsandconditionstitle7sub':
+        'Betty disediakan "apa adanya" tanpa jaminan apa pun. Kami tidak bertanggung jawab atas kerusakan atau kerugian yang diakibatkan oleh penggunaan layanan kami.',
+    'fnb_settings_termsandconditionstitle8': 'Penghetian atau Penangguhan',
+    'fnb_settings_termsandconditionstitle8sub':
+        'Betty berhak untuk menghentikan atau menangguhkan akun Anda kapan saja, tanpa pemberitahuan sebelumnya, karena melanggar Ketentuan Layanan ini.',
+    'fnb_settings_termsandconditionstitle9': 'Hukum Berlaku',
+    'fnb_settings_termsandconditionstitle9sub':
+        'Ketentuan Layanan ini diatur oleh dan ditafsirkan sesuai dengan hukum [Yurisdiksi Anda]. Setiap perselisihan yang timbul berdasarkan atau sehubungan dengan ketentuan ini akan tunduk pada yurisdiksi eksklusif pengadilan di [Yurisdiksi Anda].',
+    'fnb_settings_termsandconditionstitle10': 'Hubungi Kami',
+    'fnb_settings_termsandconditionstitle10sub':
+        'Jika Anda memiliki pertanyaan atau kekhawatiran tentang Ketentuan Layanan ini, silakan hubungi kami di contact@betty.com. Dengan menggunakan Betty, Anda setuju untuk mematuhi Ketentuan Layanan ini.',
+    'fnb_settings_termsandconditionslastupdate':
+        'Pembaruan Terakhir: 04/04/2023',
+    // PrivacyPolicy
+    'fnb_settings_privacypolicytitle1': 'Informasi Yang Kami Kumpulkan',
+    'fnb_settings_privacypolicytitle1sub1':
+        'Informasi Akun: Saat Anda membuat akun Betty, kami mengumpulkan informasi penting seperti nama, alamat email, dan detail bisnis Anda untuk memberi Anda layanan yang dipersonalisasi.',
+    'fnb_settings_privacypolicytitle1sub2':
+        'Data Transaksi: Betty menyimpan detail transaksi dengan aman untuk memfasilitasi catatan penjualan yang akurat dan mendukung operasi bisnis Anda.',
+    'fnb_settings_privacypolicytitle2':
+        'Bagaimana Kami Menggunakan Informasi Anda',
+    'fnb_settings_privacypolicytitle2sub1':
+        'Personalisasi: Kami menggunakan informasi Anda untuk mempersonalisasi pengalaman Betty Anda, memberikan fitur dan rekomendasi yang disesuaikan.',
+    'fnb_settings_privacypolicytitle2sub2':
+        'Komunikasi: Betty dapat menggunakan informasi kontak Anda untuk mengirim pembaruan penting, pengumuman, atau menanggapi pertanyaan.',
+    'fnb_settings_privacypolicytitle3': 'Keamanan Data',
+    'fnb_settings_privacypolicytitle3sub1':
+        'Enkripsi: Data Anda dienkripsi selama transmisi dan penyimpanan untuk memastikan keamanannya.',
+    'fnb_settings_privacypolicytitle3sub2':
+        'Kontrol Akses: Kami menerapkan kontrol akses yang ketat untuk membatasi akses data hanya untuk personel yang berwenang.',
+    'fnb_settings_privacypolicytitle4': 'Berbagi Informasi Anda',
+    'fnb_settings_privacypolicytitle4sub1':
+        'Integrasi Pihak Ketiga: Betty dapat membagikan informasi yang diperlukan dengan integrasi pihak ketiga untuk meningkatkan pengalaman Anda. Namun, keamanan data Anda tetap menjadi prioritas kami.',
+    'fnb_settings_privacypolicytitle5': 'Pilihan Anda',
+    'fnb_settings_privacypolicytitle5sub1':
+        'Memilih Keluar: Anda dapat memilih keluar dari komunikasi yang tidak penting dengan menyesuaikan preferensi pemberitahuan Anda di pengaturan.',
+    'fnb_settings_privacypolicytitle6': 'Pembaruan Kebijakan Privasi',
+    'fnb_settings_privacypolicytitle6sub1':
+        'Pemberitahuan: Kami akan memberi tahu Anda tentang perubahan signifikan pada Kebijakan Privasi. Harap tinjau kebijakan secara berkala untuk pembaruan.',
+    'fnb_settings_privacypolicytitle7': 'Hubungan Kami',
+    'fnb_settings_privacypolicytitle7sub1':
+        'Pertanyaan: Jika Anda memiliki pertanyaan atau kekhawatiran tentang privasi Anda atau kebijakan ini, silakan hubungi kami di contact@betty.com.',
+    'fnb_settings_privacypolicyclaim':
+        'Dengan menggunakan Betty, Anda menyetujui ketentuan yang diuraikan dalam Kebijakan Privasi ini.',
+    'fnb_settings_privacypolicylastupdate': 'Pembaruan Terakhir: 04/04/2023',
   };
 }
