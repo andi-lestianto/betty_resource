@@ -49,6 +49,18 @@ class DateTimeUtils {
     return dateNow.toString();
   }
 
+  /// Get current date in string format 'EEEE, dd MMM yyyy'
+  ///
+  /// [languageCode] is the locale of the date format
+  ///
+  /// Returns the current date with the day of the week in string format 'EEE, dd MMMM yyyy' with the given locale
+  String getDateNowWithDay2({required String languageCode}) {
+    final f = DateFormat('EEEE, dd MMM yyyy', languageCode);
+    final dateNow = f.format(DateTime.now());
+
+    return dateNow.toString();
+  }
+
   /// Format a given [date] to a string in the format 'dd MMM yyyy'.
   ///
   /// [languageCode] is the locale of the date format.
