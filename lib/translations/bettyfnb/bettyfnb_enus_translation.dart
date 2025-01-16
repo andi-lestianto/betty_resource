@@ -29,6 +29,26 @@ class BettyFnBEnUSTranslation {
     'fnb_navbar_report': 'Report',
     'fnb_navbar_product': 'Product',
     'fnb_navbar_unpaid': 'Unpaid',
+    // Early Balance
+    'fnb_earlybalance_title': 'Start Session',
+    'fnb_earlybalance_cashtitle': 'Cash',
+    'fnb_earlybalance_cashsubtitle':
+        'Note down the amount of cash according to availability at the cashier.',
+    'fnb_earlybalance_amount': 'Amount',
+    'fnb_earlybalance_subtotal': 'Subtotal',
+    'fnb_earlybalance_fraction': 'Fraction',
+    'fnb_earlybalance_fractionselect': 'Select Fraction',
+    'fnb_earlybalance_fractionadd': 'Add Fraction',
+    'fnb_earlybalance_sessionid': 'Session ID ',
+    'fnb_earlybalance_totalcash': 'Total Cash',
+    'fnb_earlybalance_start': 'Save & Continue',
+    'fnb_earlybalance_savedialogtitle': 'Save Early Cash?',
+    'fnb_earlybalance_savedialogsubtitle':
+        'The initial cash amount of @cash will be recorded in the system and cannot be changed.',
+    'fnb_earlybalance_savedialogrecheck': 'Re-Check',
+    'fnb_earlybalance_successdialogtitle': 'Initial Cash Successfully Saved.',
+    'fnb_earlybalance_successdialogsubtitle':
+        'The initial cashout on your session is already saved. Close to start making transactions.',
     // Menu
     'fnb_menu_menu': 'Menu',
     'fnb_menu_errortitle': 'There is no menu yet',

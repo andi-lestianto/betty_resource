@@ -29,6 +29,26 @@ class BettyFnBIdIDTranslation {
     'fnb_navbar_report': 'Laporan',
     'fnb_navbar_product': 'Produk',
     'fnb_navbar_unpaid': 'Belum Dibayar',
+    // Early Balance
+    'fnb_earlybalance_title': 'Mulai Sesi',
+    'fnb_earlybalance_cashtitle': 'Uang Tunai',
+    'fnb_earlybalance_cashsubtitle':
+        'Catat banyaknya uang tunai sesuai ketersediaan di kasir.',
+    'fnb_earlybalance_amount': 'Jumlah',
+    'fnb_earlybalance_subtotal': 'Subtotal',
+    'fnb_earlybalance_fraction': 'Pecahan',
+    'fnb_earlybalance_fractionselect': 'Pilih Pecahan',
+    'fnb_earlybalance_fractionadd': 'Tambah Pecahan Uang',
+    'fnb_earlybalance_sessionid': 'ID Sesi ',
+    'fnb_earlybalance_totalcash': 'Total Uang Tunai',
+    'fnb_earlybalance_start': 'Simpan & Lanjutkan',
+    'fnb_earlybalance_savedialogtitle': 'Simpan Uang Tunai Awal?',
+    'fnb_earlybalance_savedialogsubtitle':
+        'Uang tunai awal sebanyak @cash akan dicatat di sistem dan tidak dapat diubah.',
+    'fnb_earlybalance_savedialogrecheck': 'Periksa Ulang',
+    'fnb_earlybalance_successdialogtitle': 'Uang Tunai Awal Berhasil Disimpan',
+    'fnb_earlybalance_successdialogsubtitle':
+        'Uang tunai awal pada sesi Anda sudah disimpan. Tutup untuk mulai melakukan transaksi.',
     // Menu
     'fnb_menu_menu': 'Menu',
     'fnb_menu_errortitle': 'Belum Ada Menu',
