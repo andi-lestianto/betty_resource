@@ -1,9 +1,12 @@
 import 'dart:developer';
 
+import 'package:betty_resource/core/controller/auth_controller.dart';
 import 'package:dio/dio.dart';
 import 'package:get/get.dart';
 
 class DioErrorMessageHelper {
+  final AuthController authController = Get.find();
+  SnackbarController? controller;
   Future<String> getErrorMessage(DioException exception) async {
     log(exception.type.toString(), name: 'apiResponseError');
 
@@ -24,13 +27,13 @@ class DioErrorMessageHelper {
         return 'apierror_receiveTimeout'.tr;
       case DioExceptionType.badResponse:
         if (exception.response != null) {
-          // if (exception.response!.statusCode == 401) {
-          //   if (!gx.Get.currentRoute.contains(Routes.GENERAL_LOGIN)) {
-          //     Toast().showAlert(message: 'apierror_unAuthorized'.tr);
-          //     authCtrl.deleteCurrentUser();
-          //     gx.Get.offAllNamed(Routes.GENERAL_LOGIN);
-          //   }
-          // }
+          if (exception.response!.statusCode == 401) {
+            if (!Get.currentRoute.contains('/login')) {
+              // Toast().showAlert(message: 'apierror_unAuthorized'.tr);
+              authController.deleteCurrentUser();
+              Get.offAllNamed('/login');
+            }
+          }
         }
         String errorMessage = '';
         errorMessage = (exception.response != null

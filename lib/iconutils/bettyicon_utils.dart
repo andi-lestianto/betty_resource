@@ -231,4 +231,5 @@ class BettyIcon {
       '${path}assets/icon/ic-star-new-hover.svg';
   static const String icStarNewFilledSvg =
       '${path}assets/icon/ic-star-new-filled.svg';
+  static const String icAmicoSvg = '${path}assets/icon/ic-amico.svg';
 }

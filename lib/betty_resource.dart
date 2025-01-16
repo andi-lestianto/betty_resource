@@ -15,3 +15,9 @@ export 'package:betty_resource/utils/network_utils/dio_client.dart';
 export 'package:betty_resource/utils/network_utils/dioerrmessage_helper.dart';
 export 'package:betty_resource/utils/network_utils/endpoint_baseurl_const.dart';
 export 'package:betty_resource/utils/network_utils/apiresponse_model.dart';
+
+export 'core/controller/auth_controller.dart';
+
+export 'data/model/branchresponse_model.dart';
+export 'data/model/userresponse_model.dart';
+export 'data/repository/auth_repository.dart';

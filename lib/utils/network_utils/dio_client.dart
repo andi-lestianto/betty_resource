@@ -127,6 +127,7 @@ class DioClientImpl implements DioClient {
       InterceptorsWrapper(
         onRequest:
             (RequestOptions options, RequestInterceptorHandler handler) async {
+          // final token = await _getCurrentToken();
           final token = await _getCurrentToken();
           if (token != null) {
             options.headers.addAll({'Authorization': 'Bearer $token'});
