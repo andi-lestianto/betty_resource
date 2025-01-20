@@ -38,6 +38,7 @@ class BettyFnBIdIDTranslation {
     'fnb_earlybalance_subtotal': 'Subtotal',
     'fnb_earlybalance_fraction': 'Pecahan',
     'fnb_earlybalance_fractionselect': 'Pilih Pecahan',
+    'fnb_earlybalance_fractionselectmobile': 'Pilih',
     'fnb_earlybalance_fractionadd': 'Tambah Pecahan Uang',
     'fnb_earlybalance_sessionid': 'ID Sesi ',
     'fnb_earlybalance_totalcash': 'Total Uang Tunai',

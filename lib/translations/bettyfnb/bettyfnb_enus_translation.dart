@@ -38,6 +38,7 @@ class BettyFnBEnUSTranslation {
     'fnb_earlybalance_subtotal': 'Subtotal',
     'fnb_earlybalance_fraction': 'Fraction',
     'fnb_earlybalance_fractionselect': 'Select Fraction',
+    'fnb_earlybalance_fractionselectmobile': 'Select',
     'fnb_earlybalance_fractionadd': 'Add Fraction',
     'fnb_earlybalance_sessionid': 'Session ID ',
     'fnb_earlybalance_totalcash': 'Total Cash',
