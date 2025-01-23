@@ -164,6 +164,21 @@ class BettyFnBIdIDTranslation {
     'fnb_settings_languagesuccesstitle': 'Berhasil Diubah',
     'fnb_settings_languagesuccesssubtitle':
         'Bahasa Anda berhasil diubah ke @language.',
+    'fnb_settings_printermydevices': 'Perangkat Saya',
+    'fnb_settings_printerotherdevices': 'Perangkat Lainnya',
+    'fnb_settings_printernearbydevices': 'Perangkat Disekitar',
+    'fnb_settings_printernodevice': 'Tidak ada perangkat ditemukan.',
+    'fnb_settings_printerconnect': 'Hubungkan',
+    'fnb_settings_printerconnecting': 'Menghubungkan',
+    'fnb_settings_printerconnected': 'Terhubung',
+    'fnb_settings_printernotconnected': 'Tidak Terhubung',
+    'fnb_settings_printerdisconnect': 'Putuskan',
+    'fnb_settings_printersuccesstitle': 'Berhasil Terhubung',
+    'fnb_settings_printersuccesssubtitle':
+        'Perangkat Anda berhasil terhubung dengan Betty.',
+    'fnb_settings_printerfailedtitle': 'Gagal Menghubungkan',
+    'fnb_settings_printersuccessfailedsubtitle':
+        'Mohon untuk cek kembali konektivitas perangkat Anda, lalu coba lagi.',
     'fnb_settings_feedbacktitle': 'Umpan Balik Anda Berharga',
     'fnb_settings_feedbacksubtitle': 'Bantu Betty menjadi lebih baik!',
     'fnb_settings_feedbackfeedback': 'Masukan',

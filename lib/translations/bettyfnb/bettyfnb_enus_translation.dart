@@ -161,6 +161,21 @@ class BettyFnBEnUSTranslation {
     'fnb_settings_languagesuccesstitle': 'Changed Successfully',
     'fnb_settings_languagesuccesssubtitle':
         'Your language has been successfully changed to @language.',
+    'fnb_settings_printermydevices': 'My Devices',
+    'fnb_settings_printerotherdevices': 'Other Devices',
+    'fnb_settings_printernearbydevices': 'Nearby Devices',
+    'fnb_settings_printernodevice': 'Device not found.',
+    'fnb_settings_printerconnect': 'Connect',
+    'fnb_settings_printerconnecting': 'Connecting',
+    'fnb_settings_printerconnected': 'Connected',
+    'fnb_settings_printernotconnected': 'Not Connected',
+    'fnb_settings_printerdisconnect': 'Disconnect',
+    'fnb_settings_printersuccesstitle': 'Connected Successfully',
+    'fnb_settings_printersuccesssubtitle':
+        'Your device has successfully connected with Betty.',
+    'fnb_settings_printerfailedtitle': 'Failed to Connect',
+    'fnb_settings_printersuccessfailedsubtitle':
+        'Please check your device connectivity again, then try again.',
     'fnb_settings_feedbacktitle': 'Your Feedback is Valuable',
     'fnb_settings_feedbacksubtitle': 'Help Betty get better!',
     'fnb_settings_feedbackfeedback': 'Feedback',
