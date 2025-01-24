@@ -111,6 +111,7 @@ class BettyIcon {
   static const String icPresentionChartSvg =
       '${path}assets/icon/ic-presention-chart.svg';
   static const String icPrinterSvg = '${path}assets/icon/ic-printer.svg';
+  static const String icPrinterNewSvg = '${path}assets/icon/ic-printer-new.svg';
   static const String icProductActiveSvg =
       '${path}assets/icon/ic-product-active.svg';
   static const String icProductSvg = '${path}assets/icon/ic-product.svg';
