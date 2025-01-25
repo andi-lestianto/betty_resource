@@ -15,6 +15,7 @@ class BettyMainIdIDTranslation {
     'main_general_continue': 'Lanjutkan',
     'main_general_or': 'atau',
     'main_general_logout': 'Keluar',
+    'main_general_new': 'Baru',
     // Login
     'main_login_title': 'Selamat datang di ',
     'main_login_subtitle':
@@ -45,7 +46,6 @@ class BettyMainIdIDTranslation {
     'main_register_hintemail': 'Cth. example@email.com',
     'main_register_hintpassword': 'Ketik kata sandi',
     'main_register_hintconfirmpassword': 'Ketik ulang kata sandi',
-    'main_register_hinttypebusiness': 'Cth. Retail, Tekstil, Kesehatan',
     'main_register_passwordrequirement':
         'Kata sandi harus terdiri dari 8+ karakter',
     'main_register_register': 'Daftar',
@@ -79,9 +79,31 @@ class BettyMainIdIDTranslation {
     'main_business_uploadimage': 'Upload Gambar',
     'main_business_takephoto': 'Ambil Gambar',
     'main_business_choosefromgallery': 'Pilih dari Galeri',
-    'main_business_savesuccesstitle': 'Data Usaha Berhasil Disimpan',
+    'main_business_savesuccesstitle': 'Data Berhasil Disimpan',
     'main_business_savesuccesssubtitle':
-        'Selamat! Data usaha Anda berhasil disimpan dan akun Betty Anda sudah siap digunakan.',
+        'Selamat! Data Anda berhasil disimpan dan akun Betty Anda sudah siap digunakan.',
+    'main_business_businesstypetitle': 'Pilih Jenis Usaha',
+    'main_business_businesstypesubtitle':
+        'Pilih jenis usaha berdasarkan fitur tersedia sesuai kebutuhan usaha Anda.',
+    'main_business_businesstypefnb': 'Makanan & Minuman',
+    'main_business_businesstypefnbbenefit1': 'Pengelolaan Menu',
+    'main_business_businesstypefnbbenefit2': 'Pengelolaan Kategori Menu',
+    'main_business_businesstypefnbbenefit3': 'Pengelolaan Add-on Menu',
+    'main_business_businesstypefnbbenefit4': 'Pencatatan Transaksi',
+    'main_business_businesstypefnbbenefit5': 'Laporan Penjualan',
+    'main_business_businesstypefnbbenefit6': 'Laporan Finansial',
+    'main_business_businesstypefnbbenefit7': 'Analisis Produk (Menu & Add-on)',
+    'main_business_businesstypefnbbenefit8': 'Kasir',
+    'main_business_businesstypefnbbenefit9': 'Admin Panel',
+    'main_business_businesstypeothers': 'Lainnya',
+    'main_business_businesstypeothershint': 'Cth. Retail, Jasa, dll.',
+    'main_business_businesstypeothersplaceholder':
+        'Jenis usaha Anda akan disimpan kedalam database',
+    'main_business_businesstypeothersbenefit1': 'Pengelolaan Produk',
+    'main_business_businesstypeothersbenefit2': 'Pengelolaan Kategori Produk ',
+    'main_business_businesstypeothersbenefit3': 'Pencatatan Transaksi',
+    'main_business_businesstypeothersbenefit4': 'Laporan Umum',
+    'main_business_selectandsave': 'Pilih & Simpan',
     // Forget Password
     'main_forgetpassword_title': 'Lupa Kata Sandi',
     'main_forgetpassword_subtitle':
