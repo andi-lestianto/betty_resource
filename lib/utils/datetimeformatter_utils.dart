@@ -122,4 +122,14 @@ class DateTimeUtils {
 
     return result.toString();
   }
+
+  String customFormatDate(
+      {required DateTime date,
+      required String languageCode,
+      required String format}) {
+    final f = DateFormat(format, languageCode);
+    final result = f.format(date);
+
+    return result.toString();
+  }
 }
