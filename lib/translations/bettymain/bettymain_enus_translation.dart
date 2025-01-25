@@ -15,6 +15,7 @@ class BettyMainEnUSTranslation {
     'main_general_continue': 'Continue',
     'main_general_or': 'or',
     'main_general_logout': 'Logout',
+    'main_general_new': 'New',
     // Login
     'main_login_title': 'Welcome to ',
     'main_login_subtitle':
@@ -46,7 +47,6 @@ class BettyMainEnUSTranslation {
     'main_register_hintemail': 'Ex. example@email.com',
     'main_register_hintpassword': 'Type password',
     'main_register_hintconfirmpassword': 'Re-type password',
-    'main_register_hinttypebusiness': 'Ex. Retail, Textile, Healthcare',
     'main_register_passwordrequirement':
         'Password must contain at least 8 characters',
     'main_register_register': 'Register',
@@ -81,9 +81,31 @@ class BettyMainEnUSTranslation {
     'main_business_uploadimage': 'Upload Image',
     'main_business_takephoto': 'Take Photo',
     'main_business_choosefromgallery': 'Choose from Gallery',
-    'main_business_savesuccesstitle': 'Business Data Saved Successfully',
+    'main_business_savesuccesstitle': 'Data Saved Successfully',
     'main_business_savesuccesssubtitle':
-        'Congratulation! Your business data has been successfully saved and your Betty account is ready to use.',
+        'Congratulation! Your data has been successfully saved and your Betty account is ready to use.',
+    'main_business_businesstypetitle': 'Select Business Type',
+    'main_business_businesstypesubtitle':
+        'Choose the type of business based on the available features according to your business needs.',
+    'main_business_businesstypefnb': 'Foods & Beverages',
+    'main_business_businesstypefnbbenefit1': 'Menu Management',
+    'main_business_businesstypefnbbenefit2': 'Pengelolaan Kategori Menu',
+    'main_business_businesstypefnbbenefit3': 'Menu Category Management',
+    'main_business_businesstypefnbbenefit4': 'Pencatatan Transaksi',
+    'main_business_businesstypefnbbenefit5': 'Transaction Recording',
+    'main_business_businesstypefnbbenefit6': 'Financial Reports',
+    'main_business_businesstypefnbbenefit7': 'Product Analysis (Menu & Add-on)',
+    'main_business_businesstypefnbbenefit8': 'Cashier',
+    'main_business_businesstypefnbbenefit9': 'Admin Panel',
+    'main_business_businesstypeothers': 'Others',
+    'main_business_businesstypeothershint': 'Ex. Retail, Services, etc.',
+    'main_business_businesstypeothersplaceholder':
+        'Your business type will be saved in the database',
+    'main_business_businesstypeothersbenefit1': 'Product Management',
+    'main_business_businesstypeothersbenefit2': 'Product Category Management',
+    'main_business_businesstypeothersbenefit3': 'Transaction Recording',
+    'main_business_businesstypeothersbenefit4': 'General Report',
+    'main_business_selectandsave': 'Select & Save',
     // Forget Password
     'main_forgetpassword_title': 'Forget Password',
     'main_forgetpassword_subtitle':
