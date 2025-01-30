@@ -111,6 +111,27 @@ class BettyFnBIdIDTranslation {
         'Ketuk ‘Selesai’ jika Anda telah menyelesaikan proses pembayaran.',
     'fnb_payment_barcodescan': 'Scan Barcode Untuk Membayar',
     'fnb_payment_mainpage': 'Halaman Utama',
+    'fnb_payment_printerdisconnecttitle': 'Printer Tidak Terhubung',
+    'fnb_payment_printerdisconnectsubtitle':
+        'Hubungkan printer untuk dapat mencetak Struk.',
+    'fnb_payment_printerconnecttitle': 'Printer Terhubung',
+    'fnb_payment_printerconnectsubtitle':
+        'Printer berhasil terhubung, Anda dapat mencetak Struk.',
+    'fnb_payment_printermydevice': 'Perangkat Saya',
+    'fnb_payment_printerotherdevice': 'Perangkat Lainnya',
+    'fnb_payment_printernearbydevices': 'Perangkat Disekitar',
+    'fnb_payment_printerconnecting': 'Menghubungkan',
+    'fnb_payment_printerconnect': 'Hubungkan',
+    'fnb_payment_printerdisconnect': 'Putuskan',
+    'fnb_payment_printernodevice': 'Tidak ada perangkat ditemukan.',
+    'fnb_payment_printerconnected': 'Terhubung',
+    'fnb_payment_printernotconnected': 'Tidak Terhubung',
+    'fnb_payment_printersuccesstitle': 'Berhasil Terhubung',
+    'fnb_payment_printersuccesssubtitle':
+        'Perangkat Anda berhasil terhubung dengan Betty.',
+    'fnb_payment_printerfailedtitle': 'Gagal Menghubungkan',
+    'fnb_payment_printersuccessfailedsubtitle':
+        'Mohon untuk cek kembali konektivitas perangkat Anda, lalu coba lagi.',
     // Settings
     'fnb_settings_settings': 'Pengaturan',
     'fnb_settings_account': 'Akun',

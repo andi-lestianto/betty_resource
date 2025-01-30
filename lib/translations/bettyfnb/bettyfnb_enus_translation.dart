@@ -111,6 +111,27 @@ class BettyFnBEnUSTranslation {
         'Tap ‘Done’ if you have finished payment process.',
     'fnb_payment_barcodescan': 'Scan Barcode to Pay It',
     'fnb_payment_mainpage': 'Main Page',
+    'fnb_payment_printerdisconnecttitle': 'Printer Not Connected',
+    'fnb_payment_printerdisconnectsubtitle':
+        'Connect a printer to be able to print receipts.',
+    'fnb_payment_printerconnecttitle': 'Printer Connected',
+    'fnb_payment_printerconnectsubtitle':
+        'The printer is connected successfully, you can print the receipt.',
+    'fnb_payment_printermydevice': 'My Devices',
+    'fnb_payment_printerotherdevice': 'Other Devices',
+    'fnb_payment_printernearbydevices': 'Nearby Devices',
+    'fnb_payment_printerconnecting': 'Connecting',
+    'fnb_payment_printerconnect': 'Connect',
+    'fnb_payment_printerdisconnect': 'Disconnect',
+    'fnb_payment_printernodevice': 'No device found.',
+    'fnb_payment_printerconnected': 'Connected',
+    'fnb_payment_printernotconnected': 'Not Connected',
+    'fnb_payment_printersuccesstitle': 'Connected Successfully',
+    'fnb_payment_printersuccesssubtitle':
+        'Your device has successfully connected with Betty.',
+    'fnb_payment_printerfailedtitle': 'Failed to Connect',
+    'fnb_payment_printersuccessfailedsubtitle':
+        'Please check your device connectivity again, then try again.',
     // Settings
     'fnb_settings_settings': 'Setting',
     'fnb_settings_account': 'Account',
