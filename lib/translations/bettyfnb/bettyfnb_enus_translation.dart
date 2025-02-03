@@ -50,6 +50,23 @@ class BettyFnBEnUSTranslation {
     'fnb_earlybalance_successdialogtitle': 'Initial Cash Successfully Saved.',
     'fnb_earlybalance_successdialogsubtitle':
         'The initial cashout on your session is already saved. Close to start making transactions.',
+    // Closing Balance
+    'fnb_closingbalance_title': 'End Session',
+    'fnb_closingbalance_cashtitle': 'Cash',
+    'fnb_closingbalance_cashsubtitle':
+        'Note down the amount of cash according to availability at the cashier.',
+    'fnb_closingbalance_amount': 'Amount',
+    'fnb_closingbalance_subtotal': 'Subtotal',
+    'fnb_closingbalance_fraction': 'Fraction',
+    'fnb_closingbalance_fractionselect': 'Select Fraction',
+    'fnb_closingbalance_fractionselectmobile': 'Select',
+    'fnb_closingbalance_fractionadd': 'Add Fraction',
+    'fnb_closingbalance_sessionid': 'Session ID ',
+    'fnb_closingbalance_totalcash': 'Total Cash',
+    'fnb_closingbalance_note': 'Note',
+    'fnb_closingbalance_notehint': 'What do you want to tell?',
+    'fnb_closingbalance_start': 'Save & Continue',
+    'fnb_closingbalance_sessionrecap': 'Session Recap',
     // Menu
     'fnb_menu_menu': 'Menu',
     'fnb_menu_errortitle': 'There is no menu yet',

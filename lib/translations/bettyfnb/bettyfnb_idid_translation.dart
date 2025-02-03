@@ -50,6 +50,23 @@ class BettyFnBIdIDTranslation {
     'fnb_earlybalance_successdialogtitle': 'Uang Tunai Awal Berhasil Disimpan',
     'fnb_earlybalance_successdialogsubtitle':
         'Uang tunai awal pada sesi Anda sudah disimpan. Tutup untuk mulai melakukan transaksi.',
+    // Closing Balance
+    'fnb_closingbalance_title': 'Akhiri Sesi',
+    'fnb_closingbalance_cashtitle': 'Uang Tunai',
+    'fnb_closingbalance_cashsubtitle':
+        'Catat banyaknya uang tunai sesuai ketersediaan di kasir.',
+    'fnb_closingbalance_amount': 'Jumlah',
+    'fnb_closingbalance_subtotal': 'Subtotal',
+    'fnb_closingbalance_fraction': 'Pecahan',
+    'fnb_closingbalance_fractionselect': 'Pilih Pecahan',
+    'fnb_closingbalance_fractionselectmobile': 'Pilih',
+    'fnb_closingbalance_fractionadd': 'Tambah Pecahan Uang',
+    'fnb_closingbalance_sessionid': 'ID Sesi ',
+    'fnb_closingbalance_totalcash': 'Total Uang Tunai',
+    'fnb_closingbalance_note': 'Catatan',
+    'fnb_closingbalance_notehint': 'Apa yang ingin Anda sampaikan?',
+    'fnb_closingbalance_start': 'Simpan & Lanjutkan',
+    'fnb_closingbalance_sessionrecap': 'Rekap Sesi',
     // Menu
     'fnb_menu_menu': 'Menu',
     'fnb_menu_errortitle': 'Belum Ada Menu',
