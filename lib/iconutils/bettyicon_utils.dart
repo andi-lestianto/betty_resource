@@ -237,4 +237,6 @@ class BettyIcon {
       '${path}assets/icon/ic-printer-withbg.svg';
   static const String icPrinterWithBgSuccessSvg =
       '${path}assets/icon/ic-printer-withbg-success.svg';
+  static const String icMoneyChangeSvg =
+      '${path}assets/icon/ic-money-change.svg';
 }
