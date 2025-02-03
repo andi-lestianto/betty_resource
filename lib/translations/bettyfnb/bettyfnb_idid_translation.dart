@@ -67,6 +67,9 @@ class BettyFnBIdIDTranslation {
     'fnb_closingbalance_notehint': 'Apa yang ingin Anda sampaikan?',
     'fnb_closingbalance_start': 'Simpan & Lanjutkan',
     'fnb_closingbalance_sessionrecap': 'Rekap Sesi',
+    'fnb_closingbalance_confirm1':
+        'Saya telah memeriksa uang tunai dan seluruh laporan.',
+    'fnb_closingbalance_confirm2': 'Simpan Pencatatan Sesi sebagai PDF.',
     // Menu
     'fnb_menu_menu': 'Menu',
     'fnb_menu_errortitle': 'Belum Ada Menu',

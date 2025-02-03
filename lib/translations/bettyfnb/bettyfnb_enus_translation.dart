@@ -67,6 +67,9 @@ class BettyFnBEnUSTranslation {
     'fnb_closingbalance_notehint': 'What do you want to tell?',
     'fnb_closingbalance_start': 'Save & Continue',
     'fnb_closingbalance_sessionrecap': 'Session Recap',
+    'fnb_closingbalance_confirm1':
+        'I have checked the cash and all the statements.',
+    'fnb_closingbalance_confirm2': 'Save Session Logging as a PDF.',
     // Menu
     'fnb_menu_menu': 'Menu',
     'fnb_menu_errortitle': 'There is no menu yet',
