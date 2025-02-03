@@ -132,6 +132,13 @@ class BettyFnBEnUSTranslation {
     'fnb_payment_printerfailedtitle': 'Failed to Connect',
     'fnb_payment_printersuccessfailedsubtitle':
         'Please check your device connectivity again, then try again.',
+    'fnb_payment_printerinvoicesubtotal': 'Sub Total',
+    'fnb_payment_printerinvoicetotal': 'Total',
+    'fnb_payment_printerinvoicetotalpayment': 'Cash Payment',
+    'fnb_payment_printerinvoicechange': 'Change',
+    'fnb_payment_printerinvoiceclosing': 'Thanks and See You',
+    'fnb_payment_printerinvoicecredit':
+        'Printed from the Betty POS Application',
     // Settings
     'fnb_settings_settings': 'Setting',
     'fnb_settings_account': 'Account',

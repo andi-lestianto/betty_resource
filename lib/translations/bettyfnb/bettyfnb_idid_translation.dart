@@ -132,6 +132,12 @@ class BettyFnBIdIDTranslation {
     'fnb_payment_printerfailedtitle': 'Gagal Menghubungkan',
     'fnb_payment_printersuccessfailedsubtitle':
         'Mohon untuk cek kembali konektivitas perangkat Anda, lalu coba lagi.',
+    'fnb_payment_printerinvoicesubtotal': 'Sub Total',
+    'fnb_payment_printerinvoicetotal': 'Total',
+    'fnb_payment_printerinvoicetotalpayment': 'Pembayaran Tunai',
+    'fnb_payment_printerinvoicechange': 'Kembalian',
+    'fnb_payment_printerinvoiceclosing': 'Terimakasih dan Sampai Jumpa',
+    'fnb_payment_printerinvoicecredit': 'Dicetak dari Aplikasi Betty POS',
     // Settings
     'fnb_settings_settings': 'Pengaturan',
     'fnb_settings_account': 'Akun',
