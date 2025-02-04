@@ -70,6 +70,7 @@ class BettyFnBIdIDTranslation {
     'fnb_closingbalance_confirm1':
         'Saya telah memeriksa uang tunai dan seluruh laporan.',
     'fnb_closingbalance_confirm2': 'Simpan Pencatatan Sesi sebagai PDF.',
+    'fnb_closingbalance_confirmation': "Konfirmasi",
     // Menu
     'fnb_menu_menu': 'Menu',
     'fnb_menu_errortitle': 'Belum Ada Menu',

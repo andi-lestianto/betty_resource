@@ -70,6 +70,7 @@ class BettyFnBEnUSTranslation {
     'fnb_closingbalance_confirm1':
         'I have checked the cash and all the statements.',
     'fnb_closingbalance_confirm2': 'Save Session Logging as a PDF.',
+    'fnb_closingbalance_confirmation': "Confirmation",
     // Menu
     'fnb_menu_menu': 'Menu',
     'fnb_menu_errortitle': 'There is no menu yet',
