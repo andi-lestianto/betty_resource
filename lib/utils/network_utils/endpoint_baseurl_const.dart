@@ -1,6 +1,6 @@
 class EndpointBaseUrl {
   // static const String baseUrl = 'https://api.betty.id';
-  static const String baseUrl = 'http://36.90.209.8/dev-main-be';
+  static const String baseUrl = 'http://36.90.208.84/dev-main-be';
   static const String apiUrl = '$baseUrl/api/v1/';
 
   // Images
