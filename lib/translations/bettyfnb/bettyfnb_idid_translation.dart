@@ -97,6 +97,7 @@ class BettyFnBIdIDTranslation {
     'fnb_closingbalance_recapneedstockupdate': 'Butuh Pembaharuan Stock',
     'fnb_closingbalance_recapsold': 'Terjual',
     'fnb_closingbalance_recapremainingstock': 'Sisa Stock',
+    'fnb_closingbalance_recapemptyproduct': 'Belum ada Menu/Add-on terjual.',
     // Menu
     'fnb_menu_menu': 'Menu',
     'fnb_menu_errortitle': 'Belum Ada Menu',

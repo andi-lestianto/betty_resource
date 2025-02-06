@@ -97,6 +97,7 @@ class BettyFnBEnUSTranslation {
     'fnb_closingbalance_recapneedstockupdate': 'Need Stock Update',
     'fnb_closingbalance_recapsold': 'TSold',
     'fnb_closingbalance_recapremainingstock': 'Remaining Stock',
+    'fnb_closingbalance_recapemptyproduct': 'No Menu/Add-ons sold yet.',
     // Menu
     'fnb_menu_menu': 'Menu',
     'fnb_menu_errortitle': 'There is no menu yet',
