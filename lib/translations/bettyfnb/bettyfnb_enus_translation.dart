@@ -98,6 +98,15 @@ class BettyFnBEnUSTranslation {
     'fnb_closingbalance_recapsold': 'TSold',
     'fnb_closingbalance_recapremainingstock': 'Remaining Stock',
     'fnb_closingbalance_recapemptyproduct': 'No Menu/Add-ons sold yet.',
+    'fnb_closingbalance_confirmtitle': 'End Session Now?',
+    'fnb_closingbalance_confirmsubtitle':
+        'By end the session, all transactions will be locked and this action cannot be reversed.',
+    'fnb_closingbalance_confirmrecheck': 'Re-Check',
+    'fnb_closingbalance_confirmcloseshift': 'End Shift',
+    'fnb_closingbalance_successtitle': 'Session Has Ended',
+    'fnb_closingbalance_successsubtitle':
+        'All transaction data has been saved. You will be redirected to the home page in 5 seconds.',
+    'fnb_closingbalance_successback': 'Go to Early Page',
     // Menu
     'fnb_menu_menu': 'Menu',
     'fnb_menu_errortitle': 'There is no menu yet',

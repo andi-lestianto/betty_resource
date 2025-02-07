@@ -98,6 +98,15 @@ class BettyFnBIdIDTranslation {
     'fnb_closingbalance_recapsold': 'Terjual',
     'fnb_closingbalance_recapremainingstock': 'Sisa Stock',
     'fnb_closingbalance_recapemptyproduct': 'Belum ada Menu/Add-on terjual.',
+    'fnb_closingbalance_confirmtitle': 'Akhiri Sesi Sekarang?',
+    'fnb_closingbalance_confirmsubtitle':
+        'Dengan mengakhiri sesi, seluruh transaksi akan dikunci dan aksi ini tidak dapat dibatalkan.',
+    'fnb_closingbalance_confirmrecheck': 'Periksa Ulang',
+    'fnb_closingbalance_confirmcloseshift': 'Akhiri Shift',
+    'fnb_closingbalance_successtitle': 'Sesi Telah Diakhiri',
+    'fnb_closingbalance_successsubtitle':
+        'Seluruh data transaksi telah disimpan. Anda akan dialihkan ke halaman awal dalam 5 detik.',
+    'fnb_closingbalance_successback': 'Ke Halaman Awal',
     // Menu
     'fnb_menu_menu': 'Menu',
     'fnb_menu_errortitle': 'Belum Ada Menu',
