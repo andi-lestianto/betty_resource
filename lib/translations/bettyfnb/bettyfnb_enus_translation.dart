@@ -110,6 +110,9 @@ class BettyFnBEnUSTranslation {
     'fnb_closingbalance_successsubtitle':
         'All transaction data has been saved. You will be redirected to the home page in 5 seconds.',
     'fnb_closingbalance_successback': 'Go to Early Page',
+    'fnb_closingbalance_summarytitle': 'Confirmation',
+    'fnb_closingbalance_summarysubtitle':
+        'Before ending, make sure you have checked all cash data and reports.',
     // Menu
     'fnb_menu_menu': 'Menu',
     'fnb_menu_errortitle': 'There is no menu yet',

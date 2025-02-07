@@ -110,6 +110,9 @@ class BettyFnBIdIDTranslation {
     'fnb_closingbalance_successsubtitle':
         'Seluruh data transaksi telah disimpan. Anda akan dialihkan ke halaman awal dalam 5 detik.',
     'fnb_closingbalance_successback': 'Ke Halaman Awal',
+    'fnb_closingbalance_summarytitle': 'Konfirmasi',
+    'fnb_closingbalance_summarysubtitle':
+        'Sebelum mengakhiri, pastikan seluruh data uang tunai dan laporan telah Anda periksa.',
     // Menu
     'fnb_menu_menu': 'Menu',
     'fnb_menu_errortitle': 'Belum Ada Menu',
