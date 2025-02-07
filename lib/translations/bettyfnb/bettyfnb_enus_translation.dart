@@ -79,6 +79,9 @@ class BettyFnBEnUSTranslation {
         'I have checked the cash and all the statements.',
     'fnb_closingbalance_confirm2': 'Save Session Logging as a PDF.',
     'fnb_closingbalance_confirmation': "Confirmation",
+    'fnb_closingbalance_recaptitle': 'Session Recap',
+    'fnb_closingbalance_recapsubtitle':
+        'View a summary of transactions during the session.',
     'fnb_closingbalance_recaptotalsell': 'Total Selling',
     'fnb_closingbalance_recapnominalorderavg': 'Nominal Order Average',
     'fnb_closingbalance_recapreturnproduct': 'Return Product',

@@ -79,6 +79,9 @@ class BettyFnBIdIDTranslation {
         'Saya telah memeriksa uang tunai dan seluruh laporan.',
     'fnb_closingbalance_confirm2': 'Simpan Pencatatan Sesi sebagai PDF.',
     'fnb_closingbalance_confirmation': "Konfirmasi",
+    'fnb_closingbalance_recaptitle': 'Rekap Sesi',
+    'fnb_closingbalance_recapsubtitle':
+        'Lihat rangkuman transaksi selama sesi berlangsung.',
     'fnb_closingbalance_recaptotalsell': 'Total Penjualan',
     'fnb_closingbalance_recapnominalorderavg': 'Rata-rata Nominal Order',
     'fnb_closingbalance_recapreturnproduct': 'Produk Dikembalikan',
