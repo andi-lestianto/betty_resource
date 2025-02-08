@@ -233,4 +233,18 @@ class BettyIcon {
   static const String icStarNewFilledSvg =
       '${path}assets/icon/ic-star-new-filled.svg';
   static const String icAmicoSvg = '${path}assets/icon/ic-amico.svg';
+  static const String icPrinterWithbgSvg =
+      '${path}assets/icon/ic-printer-withbg.svg';
+  static const String icPrinterWithBgSuccessSvg =
+      '${path}assets/icon/ic-printer-withbg-success.svg';
+  static const String icMoneyChangeSvg =
+      '${path}assets/icon/ic-money-change.svg';
+  static const String icArchiveSvg = '${path}assets/icon/ic-archive.svg';
+  static const String icBagCrossSvg = '${path}assets/icon/ic-bag-cross.svg';
+  static const String icBagSvg = '${path}assets/icon/ic-bag.svg';
+  static const String icBoxBlueSvg = '${path}assets/icon/ic-box-blue.svg';
+  static const String icBoxOrangeSvg = '${path}assets/icon/ic-box-orange.svg';
+  static const String icMoneyChangeFilledSvg =
+      '${path}assets/icon/ic-money-change-filled.svg';
+  static const String icReceiptSvg = '${path}assets/icon/ic-receipt.svg';
 }

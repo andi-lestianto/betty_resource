@@ -25,6 +25,18 @@ class DateTimeUtils {
     return dateNow.toString();
   }
 
+  /// Get current date in string format 'dd/MM/yy'
+  ///
+  /// [languageCode] is the locale of the date format
+  ///
+  /// Returns the current date in string format 'dd MMMM yyyy' with the given locale
+  String getDateNow3({required String languageCode}) {
+    final f = DateFormat('dd/MM/yy', languageCode);
+    final dateNow = f.format(DateTime.now());
+
+    return dateNow.toString();
+  }
+
   /// Get current time in string format 'HH:mm'
   ///
   /// [languageCode] is the locale of the time format
