@@ -72,6 +72,10 @@ class BettyFnBIdIDTranslation {
     'fnb_menu_cancelsubtitle':
         'Daftar pesanan Anda akan dihapus ketika Anda membatalkan Pesanan.',
     'fnb_menu_cancelorderbtn': 'Ya, Batalkan',
+    'fnb_menu_savedordersubtitle':
+        'Pesanan Anda akan disimpan pada pada tab menu \'Belum Dibayar\'.',
+    'fnb_menu_savedorderinfo':
+        'Jumlah stok Menu dan Add-ons Anda tetap akan dikurangi sesuai dengan jumlah tercatat.',
     // Payment
     'fnb_payment_payment': 'Pembayaran',
     'fnb_payment_bill': 'Tagihan',

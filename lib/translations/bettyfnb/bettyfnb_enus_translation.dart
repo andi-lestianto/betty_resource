@@ -72,6 +72,10 @@ class BettyFnBEnUSTranslation {
     'fnb_menu_cancelsubtitle':
         'Your list order will be deleted when you cancel an Order.',
     'fnb_menu_cancelorderbtn': 'Yes, Cancel',
+    'fnb_menu_savedordersubtitle':
+        'Your list order will be saved in the \'Unpaid\' tab.',
+    'fnb_menu_savedorderinfo':
+        'The stock of Menu and Add-ons you have will be decreased according to the record.',
     // Payment
     'fnb_payment_payment': 'Payment',
     'fnb_payment_bill': 'Bill',
