@@ -247,4 +247,7 @@ class BettyIcon {
   static const String icMoneyChangeFilledSvg =
       '${path}assets/icon/ic-money-change-filled.svg';
   static const String icReceiptSvg = '${path}assets/icon/ic-receipt.svg';
+  static const String icArrowDownNewSvg =
+      '${path}assets/icon/ic-arrow-down-new.svg';
+  static const String icFilterGraySvg = '${path}assets/icon/ic-filter-gray.svg';
 }

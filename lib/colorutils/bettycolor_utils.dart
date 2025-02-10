@@ -151,7 +151,7 @@ class GeneralColor {
 
   static List<Color> clrGradientWhiteGreen = [clrEDFFFD, clrFFFFFF];
 
-  static Color clr00B9AEDropShadow = const Color(0xFF00B9AE).withOpacity(0.05);
+  static Color clr00B9AEDropShadow = const Color(0xFF00B9AE).withAlpha(13);
 
   //PieChart
   static Color clr8DECB4lightGreen = const Color(0xFF8DECB4);
