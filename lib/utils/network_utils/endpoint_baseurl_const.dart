@@ -11,4 +11,5 @@ class EndpointBaseUrl {
   static const String start = '$sessions/start';
   static const String recap = '$sessions/recap';
   static const String close = '$sessions/close';
+  static const String actives = '$sessions/actives';
 }
