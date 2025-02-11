@@ -37,6 +37,8 @@ class BettyFnBIdIDTranslation {
     'fnb_general_paid': 'Lunas',
     'fnb_general_unpaid': 'Belum Lunas',
     'fnb_general_reset': 'Reset',
+    'fnb_general_show': 'Menampilkan',
+    'fnb_general_from': 'Dari',
     // NavBar
     'fnb_navbar_menu': 'Menu',
     'fnb_navbar_report': 'Laporan',

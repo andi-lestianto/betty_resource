@@ -37,6 +37,8 @@ class BettyFnBEnUSTranslation {
     'fnb_general_paid': 'Paid',
     'fnb_general_unpaid': 'Unpaid',
     'fnb_general_reset': 'Reset',
+    'fnb_general_show': 'Show',
+    'fnb_general_from': 'From',
     // NavBar
     'fnb_navbar_menu': 'Menu',
     'fnb_navbar_report': 'Report',
