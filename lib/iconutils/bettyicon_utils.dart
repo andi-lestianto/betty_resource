@@ -250,4 +250,5 @@ class BettyIcon {
   static const String icArrowDownNewSvg =
       '${path}assets/icon/ic-arrow-down-new.svg';
   static const String icFilterGraySvg = '${path}assets/icon/ic-filter-gray.svg';
+  static const String icSortSvg = '${path}assets/icon/ic-sort.svg';
 }
