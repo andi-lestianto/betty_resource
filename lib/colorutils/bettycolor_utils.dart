@@ -93,6 +93,9 @@ class GeneralColor {
   static Color clrDCFFFD = const Color(0xFFDCFFFD);
   static Color clrEBEAFF = const Color(0xFFEBEAFF);
 
+  static Color clrFFF0E5 = const Color(0xFFFFF0E5);
+  static Color clrFF7201 = const Color(0xFFFF7201);
+
   static List<Color> clrGradientGreenBlue = [clr0C9787, clr268CFB];
 
   static List<Color> clrGradientGreentty = [
@@ -152,7 +155,7 @@ class GeneralColor {
 
   static List<Color> clrGradientWhiteGreen = [clrEDFFFD, clrFFFFFF];
 
-  static Color clr00B9AEDropShadow = const Color(0xFF00B9AE).withOpacity(0.05);
+  static Color clr00B9AEDropShadow = const Color(0xFF00B9AE).withAlpha(13);
 
   //PieChart
   static Color clr8DECB4lightGreen = const Color(0xFF8DECB4);
