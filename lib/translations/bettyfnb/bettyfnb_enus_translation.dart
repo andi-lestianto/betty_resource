@@ -227,6 +227,7 @@ class BettyFnBEnUSTranslation {
     'fnb_report_sessionunpaidorder': 'Unpaid Orders',
     'fnb_report_sessionunpaidamount': 'Unpaid Amount',
     'fnb_report_sessionviewreport': 'View Report',
+    'fnb_report_salesrecenttransaction': 'Recently Transaction',
     'fnb_report_salestransactionname': 'Name',
     'fnb_report_salestransactionlastupdate': 'Last Updated',
     'fnb_report_salestransactionmethod': 'Method',
