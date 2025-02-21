@@ -39,6 +39,7 @@ class BettyFnBEnUSTranslation {
     'fnb_general_reset': 'Reset',
     'fnb_general_show': 'Show',
     'fnb_general_from': 'From',
+    'fnb_general_select': 'Select',
     // NavBar
     'fnb_navbar_menu': 'Menu',
     'fnb_navbar_report': 'Report',

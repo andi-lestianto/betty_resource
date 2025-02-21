@@ -39,6 +39,7 @@ class BettyFnBIdIDTranslation {
     'fnb_general_reset': 'Reset',
     'fnb_general_show': 'Menampilkan',
     'fnb_general_from': 'Dari',
+    'fnb_general_select': 'Pilih',
     // NavBar
     'fnb_navbar_menu': 'Menu',
     'fnb_navbar_report': 'Laporan',
