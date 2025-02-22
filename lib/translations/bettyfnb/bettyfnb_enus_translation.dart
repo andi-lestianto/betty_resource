@@ -148,6 +148,10 @@ class BettyFnBEnUSTranslation {
         'Your list order will be saved in the \'Unpaid\' tab.',
     'fnb_menu_savedorderinfo':
         'The stock of Menu and Add-ons you have will be decreased according to the record.',
+    //Unpaid
+    'fnb_unpaid_unpaid': 'Unpaid',
+    'fnb_unpaid_refund': 'Refund',
+    'fnb_unpaid_addorder': 'Add Order',
     // Payment
     'fnb_payment_payment': 'Payment',
     'fnb_payment_bill': 'Bill',

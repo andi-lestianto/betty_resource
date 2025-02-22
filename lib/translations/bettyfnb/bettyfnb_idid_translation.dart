@@ -148,6 +148,10 @@ class BettyFnBIdIDTranslation {
         'Pesanan Anda akan disimpan pada pada tab menu \'Belum Dibayar\'.',
     'fnb_menu_savedorderinfo':
         'Jumlah stok Menu dan Add-ons Anda tetap akan dikurangi sesuai dengan jumlah tercatat.',
+    //Unpaid
+    'fnb_unpaid_unpaid': 'Belum Dibayar',
+    'fnb_unpaid_refund': 'Pengembalian',
+    'fnb_unpaid_addorder': 'Tambah Pesanan',
     // Payment
     'fnb_payment_payment': 'Pembayaran',
     'fnb_payment_bill': 'Tagihan',
