@@ -231,7 +231,7 @@ class BettyFnBEnUSTranslation {
     'fnb_report_sessiontotalsales': 'Total Sales',
     'fnb_report_sessionunpaidorder': 'Unpaid Orders',
     'fnb_report_sessionunpaidamount': 'Unpaid Amount',
-    'fnb_report_sessiontotalrevenue': 'Total Pendapatan',
+    'fnb_report_sessiontotalrevenue': 'Total Revenue',
     'fnb_report_sessionviewreport': 'View Report',
     'fnb_report_salesrecenttransaction': 'Recently Transaction',
     'fnb_report_salestransactionname': 'Name',
