@@ -40,6 +40,7 @@ class BettyFnBEnUSTranslation {
     'fnb_general_show': 'Show',
     'fnb_general_from': 'From',
     'fnb_general_select': 'Select',
+    'fnb_general_viewall': 'View All',
     // NavBar
     'fnb_navbar_menu': 'Menu',
     'fnb_navbar_report': 'Report',
@@ -272,6 +273,15 @@ class BettyFnBEnUSTranslation {
     'fnb_report_detailstotal': 'Total',
     'fnb_report_detailsamountpaid': 'Amount Paid',
     'fnb_report_detailschange': 'Change',
+    'fnb_report_financesessionrecords': 'Session Records',
+    'fnb_report_financesessionid': 'Session ID',
+    'fnb_report_financeinitialcash': 'Initial Cash',
+    'fnb_report_financeincomecash': 'Cash Income',
+    'fnb_report_financetotalincome': 'Total Cash',
+    'fnb_report_financesessiondate': 'Session Date',
+    'fnb_report_financeemptytitle': 'No Transaction Yet',
+    'fnb_report_financeemptysubtitle':
+        'A balance recording list will appear here after you make a transaction.',
     // Settings
     'fnb_settings_settings': 'Setting',
     'fnb_settings_account': 'Account',
