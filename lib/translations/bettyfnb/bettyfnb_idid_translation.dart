@@ -230,6 +230,7 @@ class BettyFnBIdIDTranslation {
     'fnb_report_sessiontotalsales': 'Total Penjualan',
     'fnb_report_sessionunpaidorder': 'Pesanan Belum Dibayar',
     'fnb_report_sessionunpaidamount': 'Nominal Belum Dibayar',
+    'fnb_report_sessiontotalrevenue': 'Total Pendapatan',
     'fnb_report_sessionviewreport': 'Lihat Laporan',
     'fnb_report_salesrecenttransaction': 'Transaksi Terbaru',
     'fnb_report_salestransactionname': 'Nama',
