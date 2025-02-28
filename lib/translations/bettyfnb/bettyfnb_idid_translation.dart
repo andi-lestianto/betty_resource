@@ -41,6 +41,9 @@ class BettyFnBIdIDTranslation {
     'fnb_general_from': 'Dari',
     'fnb_general_select': 'Pilih',
     'fnb_general_viewall': 'Lihat Semua',
+    'fnb_general_downloadpdf': 'Unduh sebagai PDF',
+    'fnb_general_downloadexcel': 'Unduh sebagai Excel',
+    'fnb_general_dot': '•',
     // NavBar
     'fnb_navbar_menu': 'Menu',
     'fnb_navbar_report': 'Laporan',
@@ -281,6 +284,17 @@ class BettyFnBIdIDTranslation {
     'fnb_report_financeemptytitle': 'Belum Ada Transaksi',
     'fnb_report_financeemptysubtitle':
         'Daftar pencatatan saldo akan muncul disini setelah Anda melakukan transaksi.',
+    'fnb_report_financedetailtitle': 'Detail Pencatatan Sesi',
+    'fnb_report_financedetailidsession': 'ID Sesi',
+    'fnb_report_financedetailinitialcash': 'Saldo Tunai Awal',
+    'fnb_report_financedetailtotalincome': 'Total Pendapatan',
+    'fnb_report_financedetailcashincome': 'Pendapatan Tunai',
+    'fnb_report_financedetailcashdetail': 'Detail Saldo Tunai',
+    'fnb_report_financedetailcashbalancetotal': 'Total Saldo Tunai Akhir',
+    'fnb_report_financedetailtotalexpected': 'Total Seharusnya',
+    'fnb_report_financedetailstatus': 'Status Saldo',
+    'fnb_report_notmatched': 'Tidak sesuai',
+    'fnb_report_matched': 'Sesuai',
     // Settings
     'fnb_settings_settings': 'Pengaturan',
     'fnb_settings_account': 'Akun',
