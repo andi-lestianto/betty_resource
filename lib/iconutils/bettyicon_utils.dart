@@ -254,4 +254,9 @@ class BettyIcon {
   static const String icCalendarSvg = '${path}assets/icon/ic-calendar.svg';
   static const String icDollarCircleSvg =
       '${path}assets/icon/ic-dollar-circle.svg';
+  static const String icEmptyWalletSvg =
+      '${path}assets/icon/ic-empty-wallet.svg';
+  static const String icWalletCheckSvg =
+      '${path}assets/icon/ic-wallet-check.svg';
+  static const String icArrowInOutSvg = '${path}assets/icon/ic-arrow-3.svg';
 }
