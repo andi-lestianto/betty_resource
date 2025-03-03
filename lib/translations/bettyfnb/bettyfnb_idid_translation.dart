@@ -44,6 +44,8 @@ class BettyFnBIdIDTranslation {
     'fnb_general_downloadpdf': 'Unduh sebagai PDF',
     'fnb_general_downloadexcel': 'Unduh sebagai Excel',
     'fnb_general_dot': '•',
+    'fnb_general_export': 'Ekspor',
+    'fnb_general_import': 'Impor',
     // NavBar
     'fnb_navbar_menu': 'Menu',
     'fnb_navbar_report': 'Laporan',
@@ -293,6 +295,7 @@ class BettyFnBIdIDTranslation {
     'fnb_report_financedetailcashbalancetotal': 'Total Saldo Tunai Akhir',
     'fnb_report_financedetailtotalexpected': 'Total Seharusnya',
     'fnb_report_financedetailstatus': 'Status Saldo',
+    'fnb_report_financealltitle': 'Pencatatan Uang Tunai',
     'fnb_report_notmatched': 'Tidak sesuai',
     'fnb_report_matched': 'Sesuai',
     // Settings

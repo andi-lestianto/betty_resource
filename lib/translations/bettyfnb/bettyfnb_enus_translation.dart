@@ -44,6 +44,8 @@ class BettyFnBEnUSTranslation {
     'fnb_general_downloadpdf': 'Download as PDF',
     'fnb_general_downloadexcel': 'Download as Excel',
     'fnb_general_dot': '•',
+    'fnb_general_export': 'Export',
+    'fnb_general_import': 'Import',
     // NavBar
     'fnb_navbar_menu': 'Menu',
     'fnb_navbar_report': 'Report',
@@ -294,6 +296,7 @@ class BettyFnBEnUSTranslation {
     'fnb_report_financedetailcashbalancetotal': 'Cash Balance Total',
     'fnb_report_financedetailtotalexpected': 'Total Expected',
     'fnb_report_financedetailstatus': 'Balance Status',
+    'fnb_report_financealltitle': 'Cash Records',
     'fnb_report_notmatched': 'Not matched',
     'fnb_report_matched': 'Matched',
     // Settings
