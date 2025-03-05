@@ -299,6 +299,23 @@ class BettyFnBEnUSTranslation {
     'fnb_report_financealltitle': 'Cash Records',
     'fnb_report_notmatched': 'Not matched',
     'fnb_report_matched': 'Matched',
+    // Refund
+    'fnb_refund_refund': 'Refund',
+    'fnb_refund_order': 'Order',
+    'fnb_refund_ordercustomer': 'Customer',
+    'fnb_refund_ordertime': 'Transaction Time',
+    'fnb_refund_orderstatus': 'Payment Status',
+    'fnb_refund_orderpaymentmethod': 'Payment Method',
+    'fnb_refund_ordertype': 'Order Type',
+    'fnb_refund_note': 'Note',
+    'fnb_refund_notehint': 'Provide details about your refund',
+    'fnb_refund_totalrefund': 'Refund Total',
+    'fnb_refund_menuprocess': 'The menu has been processed',
+    'fnb_refund_alert':
+        'If the menu has been processed, the total stock will be reduced.',
+    'fnb_refund_successtitle': 'Refund Successful',
+    'fnb_refund_successsubtitle':
+        'Your refund was successful. Check the refund status in the order details.',
     // Settings
     'fnb_settings_settings': 'Setting',
     'fnb_settings_account': 'Account',

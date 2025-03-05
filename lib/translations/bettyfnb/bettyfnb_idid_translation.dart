@@ -298,6 +298,23 @@ class BettyFnBIdIDTranslation {
     'fnb_report_financealltitle': 'Pencatatan Uang Tunai',
     'fnb_report_notmatched': 'Tidak sesuai',
     'fnb_report_matched': 'Sesuai',
+    // Refund
+    'fnb_refund_refund': 'Refund',
+    'fnb_refund_order': 'Pesanan',
+    'fnb_refund_ordercustomer': 'Pelanggan',
+    'fnb_refund_ordertime': 'Waktu Transaksi',
+    'fnb_refund_orderstatus': 'Status Pembayaran',
+    'fnb_refund_orderpaymentmethod': 'Metode Pembayaran',
+    'fnb_refund_ordertype': 'Tipe Pesanan',
+    'fnb_refund_note': 'Catatan',
+    'fnb_refund_notehint': 'Jelaskan tentang refund Anda',
+    'fnb_refund_totalrefund': 'Total Refund',
+    'fnb_refund_menuprocess': 'Menu telah diproses',
+    'fnb_refund_alert':
+        'Jika menu Anda telah diproses, jumlah stok menu Anda akan tetap berkurang.',
+    'fnb_refund_successtitle': 'Refund Berhasil',
+    'fnb_refund_successsubtitle':
+        'Proses refund Anda telah berhasil. Silahkan cek status refund pada detail pesanan.Proses refund Anda telah berhasil. Silahkan cek status refund pada detail pesanan.',
     // Settings
     'fnb_settings_settings': 'Pengaturan',
     'fnb_settings_account': 'Akun',
