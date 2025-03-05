@@ -153,6 +153,8 @@ class BettyFnBEnUSTranslation {
     'fnb_unpaid_unpaid': 'Unpaid',
     'fnb_unpaid_refund': 'Refund',
     'fnb_unpaid_addorder': 'Add Order',
+    'fnb_unpaid_empty_title': 'There are no saved orders yet',
+    'fnb_unpaid_empty_subtitle': 'Your unpaid orders will appear here.',
     // Payment
     'fnb_payment_payment': 'Payment',
     'fnb_payment_bill': 'Bill',

@@ -153,6 +153,9 @@ class BettyFnBIdIDTranslation {
     'fnb_unpaid_unpaid': 'Belum Dibayar',
     'fnb_unpaid_refund': 'Pengembalian',
     'fnb_unpaid_addorder': 'Tambah Pesanan',
+    'fnb_unpaid_empty_title': 'Belum ada pesanan disimpan',
+    'fnb_unpaid_empty_subtitle':
+        'Pesanan Anda yang belum dibayar akan muncul disini.',
     // Payment
     'fnb_payment_payment': 'Pembayaran',
     'fnb_payment_bill': 'Tagihan',
