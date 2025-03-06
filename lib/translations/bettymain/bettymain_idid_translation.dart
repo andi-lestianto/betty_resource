@@ -172,5 +172,13 @@ class BettyMainIdIDTranslation {
         'Pantau Perkembangan Dengan Laporan Penjualan Otomatis',
     'main_onboarding_subtitlecontent3':
         'Lihat performa bisnis Anda dengan mudah, dari total penjualan bulanan, mingguan, hingga harian!',
+    //updateAPp
+    'main_updateApp_title': 'Pembaruan Tersedia',
+    'main_updateApp_desc_required_update':
+        'Betty versi @version telah tersedia. Silahkan unduh pembaruan untuk melanjutkan penggunaan.',
+    'main_updateApp_desc_optional_update':
+        'Betty versi @version telah tersedia. Silahkan unduh pembaruan untuk meningkatkan pengalaman Anda.',
+    'main_updateApp_downloadupdate': 'Unduh Pembaruan',
+    'main_updateApp_downloadlater': 'Unduh Nanti',
   };
 }

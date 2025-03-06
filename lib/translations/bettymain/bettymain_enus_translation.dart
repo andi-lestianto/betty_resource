@@ -173,5 +173,13 @@ class BettyMainEnUSTranslation {
         'Track Progress with Automated Sales Reports',
     'main_onboarding_subtitlecontent3':
         'Easily monitor your business performance, from total monthly, weekly, and daily sales!',
+    //updateAPp
+    'main_updateApp_title': 'Update Available',
+    'main_updateApp_desc_required_update':
+        'Betty version @version is now available. Please download the update to continue using it.',
+    'main_updateApp_desc_optional_update':
+        'Betty version @version has been released. Please download the update to enhance your experience.',
+    'main_updateApp_downloadupdate': 'Download Update',
+    'main_updateApp_downloadlater': 'Download Later',
   };
 }

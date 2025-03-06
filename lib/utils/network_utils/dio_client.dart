@@ -168,12 +168,7 @@ class DioClientImpl implements DioClient {
           }
 
           if (options.data is! FormData) {
-            log(
-                '\x1B[35m' +
-                    json.encode((options.method == 'GET')
-                        ? options.queryParameters
-                        : options.data) +
-                    '\x1B[0m',
+            log('\x1B[35m${json.encode((options.method == 'GET') ? options.queryParameters : options.data)}\x1B[0m',
                 name: '${options.method} : ${options.uri}');
           }
 
@@ -181,13 +176,13 @@ class DioClientImpl implements DioClient {
         },
         onResponse:
             (Response response, ResponseInterceptorHandler handler) async {
-          log('\x1B[32m ' + json.encode(response.data) + '\x1B[0m',
+          log('\x1B[32m ${json.encode(response.data)}\x1B[0m',
               name:
                   '🚀 code : ${response.statusCode} - ${response.realUri.toString().replaceAll(EndpointBaseUrl.apiUrl, "")}');
           return handler.next(response);
         },
         onError: (DioException e, ErrorInterceptorHandler handler) async {
-          log('\x1B[31m ' + json.encode(e.response?.data) + '\x1B[0m',
+          log('\x1B[31m ${json.encode(e.response?.data)}\x1B[0m',
               name:
                   '🔄 code : ${e.response?.statusCode} - ${e.requestOptions.path.toString()}');
           if (e.response != null) {

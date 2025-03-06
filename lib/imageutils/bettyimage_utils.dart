@@ -124,4 +124,6 @@ class BettyImage {
   /// ![Preview](https://github.com/andi-lestianto/flutterimage-librarytest/blob/main/assets/image/img-customer-feedback.svg?raw=true)
   static const String imgCustomerFeedbackSvg =
       '${path}assets/image/img-customer-feedback.svg';
+
+  static const String imgPanaSvg = '${path}assets/image/img-pana.svg';
 }
