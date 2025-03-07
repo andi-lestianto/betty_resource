@@ -1,7 +1,9 @@
 class EndpointBaseUrl {
   // static const String baseUrl = 'https://api.betty.id';
   static const String baseUrl = 'https://api.isac-dev.web.id';
+  static const String cpBaseUrl = 'https://cp.api.isac-dev.web.id';
   static const String apiUrl = '$baseUrl/api/v1/';
+  static const String cpApiUrl = '$cpBaseUrl/api/v1/';
 
   // Images
   static const String imageUrl = '$baseUrl/api/v1/images/';
