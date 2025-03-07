@@ -314,7 +314,7 @@ class BettyFnBIdIDTranslation {
         'Jika menu Anda telah diproses, jumlah stok menu Anda akan tetap berkurang.',
     'fnb_refund_successtitle': 'Refund Berhasil',
     'fnb_refund_successsubtitle':
-        'Proses refund Anda telah berhasil. Silahkan cek status refund pada detail pesanan.Proses refund Anda telah berhasil. Silahkan cek status refund pada detail pesanan.',
+        'Proses refund Anda telah berhasil. Silahkan cek status refund pada detail pesanan.',
     // Settings
     'fnb_settings_settings': 'Pengaturan',
     'fnb_settings_account': 'Akun',
