@@ -280,6 +280,7 @@ class BettyFnBEnUSTranslation {
     'fnb_report_detailstotal': 'Total',
     'fnb_report_detailsamountpaid': 'Amount Paid',
     'fnb_report_detailschange': 'Change',
+    'fnb_report_detailsreturned': 'Returned',
     'fnb_report_financesessionrecords': 'Session Records',
     'fnb_report_financesessionid': 'Session ID',
     'fnb_report_financeinitialcash': 'Initial Cash',

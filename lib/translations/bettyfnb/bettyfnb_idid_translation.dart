@@ -280,6 +280,7 @@ class BettyFnBIdIDTranslation {
     'fnb_report_detailstotal': 'Total',
     'fnb_report_detailsamountpaid': 'Bayar',
     'fnb_report_detailschange': 'Kembalian',
+    'fnb_report_detailsreturned': 'Dikembalikan',
     'fnb_report_financesessionrecords': 'Pencatatan Sesi',
     'fnb_report_financesessionid': 'ID Sesi',
     'fnb_report_financeinitialcash': 'Tunai Awal',
