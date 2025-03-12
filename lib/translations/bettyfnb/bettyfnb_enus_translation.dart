@@ -122,7 +122,7 @@ class BettyFnBEnUSTranslation {
     'fnb_closingbalance_confirmcloseshift': 'End Shift',
     'fnb_closingbalance_successtitle': 'Session Has Ended',
     'fnb_closingbalance_successsubtitle':
-        'All transaction data has been saved. You will be redirected to the home page in 5 seconds.',
+        'All transaction data has been saved. You will be redirected to the home page in @times seconds.',
     'fnb_closingbalance_successback': 'Go to Early Page',
     'fnb_closingbalance_summarytitle': 'Confirmation',
     'fnb_closingbalance_summarysubtitle':
@@ -234,6 +234,7 @@ class BettyFnBEnUSTranslation {
     'fnb_report_sales': 'Sales',
     'fnb_report_financial': 'Financial',
     'fnb_report_refund': 'Refund',
+    'fnb_report_portion': 'Portions',
     'fnb_report_session': 'Ongoing Session',
     'fnb_report_sessiontotalorders': 'Total Orders',
     'fnb_report_sessiontotalsales': 'Total Sales',
@@ -300,6 +301,16 @@ class BettyFnBEnUSTranslation {
     'fnb_report_financedetailtotalexpected': 'Total Expected',
     'fnb_report_financedetailstatus': 'Balance Status',
     'fnb_report_financealltitle': 'Cash Records',
+    'fnb_report_refundsessionreturnproduct': 'Products Refunded',
+    'fnb_report_refundsessionstockminus': 'Stock Decreased',
+    'fnb_report_refundsessionamount': 'Amount Refunded',
+    'fnb_report_refundlatesttransaction': 'Latest Transaction',
+    'fnb_report_refundtransactionid': 'Transaction ID',
+    'fnb_report_refundname': 'Name',
+    'fnb_report_refundquantity': 'Quantity',
+    'fnb_report_refundamount': 'Amount',
+    'fnb_report_refundtype': 'Type',
+    'fnb_report_refundtime': 'Transaction Time',
     'fnb_report_notmatched': 'Not matched',
     'fnb_report_matched': 'Matched',
     // Refund

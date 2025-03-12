@@ -122,7 +122,7 @@ class BettyFnBIdIDTranslation {
     'fnb_closingbalance_confirmcloseshift': 'Akhiri Shift',
     'fnb_closingbalance_successtitle': 'Sesi Telah Diakhiri',
     'fnb_closingbalance_successsubtitle':
-        'Seluruh data transaksi telah disimpan. Anda akan dialihkan ke halaman awal dalam 5 detik.',
+        'Seluruh data transaksi telah disimpan. Anda akan dialihkan ke halaman awal dalam @times detik.',
     'fnb_closingbalance_successback': 'Ke Halaman Awal',
     'fnb_closingbalance_summarytitle': 'Konfirmasi',
     'fnb_closingbalance_summarysubtitle':
@@ -234,6 +234,7 @@ class BettyFnBIdIDTranslation {
     'fnb_report_sales': 'Penjualan',
     'fnb_report_financial': 'Keuangan',
     'fnb_report_refund': 'Pengembalian',
+    'fnb_report_portion': 'Porsi',
     'fnb_report_session': 'Sesi Berlangsung',
     'fnb_report_sessiontotalorders': 'Total Pesanan',
     'fnb_report_sessiontotalsales': 'Total Penjualan',
@@ -300,6 +301,16 @@ class BettyFnBIdIDTranslation {
     'fnb_report_financedetailtotalexpected': 'Total Seharusnya',
     'fnb_report_financedetailstatus': 'Status Saldo',
     'fnb_report_financealltitle': 'Pencatatan Uang Tunai',
+    'fnb_report_refundsessionreturnproduct': 'Product Dikembalikan',
+    'fnb_report_refundsessionstockminus': 'Stok Berkurang',
+    'fnb_report_refundsessionamount': 'Nominal Pengembalian',
+    'fnb_report_refundlatesttransaction': 'Transaksi Terbaru',
+    'fnb_report_refundtransactionid': 'Id Transaksi',
+    'fnb_report_refundname': 'Nama',
+    'fnb_report_refundquantity': 'Jumlah',
+    'fnb_report_refundamount': 'Nominal',
+    'fnb_report_refundtype': 'Tipe',
+    'fnb_report_refundtime': 'Waktu Transaksi',
     'fnb_report_notmatched': 'Tidak sesuai',
     'fnb_report_matched': 'Sesuai',
     // Refund
