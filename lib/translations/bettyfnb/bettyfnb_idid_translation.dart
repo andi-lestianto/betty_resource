@@ -301,7 +301,7 @@ class BettyFnBIdIDTranslation {
     'fnb_report_financedetailtotalexpected': 'Total Seharusnya',
     'fnb_report_financedetailstatus': 'Status Saldo',
     'fnb_report_financealltitle': 'Pencatatan Uang Tunai',
-    'fnb_report_refundsessionreturnproduct': 'Product Dikembalikan',
+    'fnb_report_refundsessionreturnproduct': 'Produk Dikembalikan',
     'fnb_report_refundsessionstockminus': 'Stok Berkurang',
     'fnb_report_refundsessionamount': 'Nominal Pengembalian',
     'fnb_report_refundlatesttransaction': 'Transaksi Terbaru',
