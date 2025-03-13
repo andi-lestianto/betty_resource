@@ -263,4 +263,5 @@ class BettyIcon {
   static const String icWalletCheckSvg =
       '${path}assets/icon/ic-wallet-check.svg';
   static const String icArrowInOutSvg = '${path}assets/icon/ic-arrow-3.svg';
+  static const String icBoxRemoveSvg = '${path}assets/icon/ic-box-remove.svg';
 }
