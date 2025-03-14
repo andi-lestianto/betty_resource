@@ -13,7 +13,8 @@ abstract class DioClient {
       {required FormData formData});
   Future<Response<T>> put<T>(String path, {Map<String, dynamic>? body});
   Future<Response<T>> delete<T>(String path, {Map<String, dynamic>? body});
-  Future<Response<T>> patch<T>(String path, {Map<String, dynamic>? body});
+  Future<Response<T>> patch<T>(String path,
+      {Map<String, dynamic>? body, Options? options});
   Future<Response<T>> patchFormData<T>(String path,
       {required FormData formData});
 }
@@ -122,9 +123,9 @@ class DioClientImpl implements DioClient {
 
   @override
   Future<Response<T>> patch<T>(String path,
-      {Map<String, dynamic>? body}) async {
+      {Map<String, dynamic>? body, Options? options}) async {
     try {
-      final response = await dio.patch<T>(path, data: body);
+      final response = await dio.patch<T>(path, data: body, options: options);
       return response;
     } catch (e) {
       if (e is DioException) {
