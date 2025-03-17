@@ -165,7 +165,7 @@ class DioClientImpl implements DioClient {
           // final token = await _getCurrentToken();
           final token = await _getCurrentToken();
           if (token != null) {
-            options.headers.addAll({'Authorization': 'Bearer $token'});
+            options.headers.addAll({'Authorization': token});
           }
 
           if (options.data is! FormData) {
