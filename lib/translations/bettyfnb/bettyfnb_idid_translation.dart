@@ -320,6 +320,7 @@ class BettyFnBIdIDTranslation {
     'fnb_report_refunddetailreturnamount': 'Nominal Dikembalikan',
     'fnb_report_refunddetailnote': 'Catatan',
     'fnb_report_refunddetailorder': 'Pesanan',
+    'fnb_report_refunddetailprocessed': 'Telah Diproses',
     'fnb_report_notmatched': 'Tidak sesuai',
     'fnb_report_matched': 'Sesuai',
     // Refund

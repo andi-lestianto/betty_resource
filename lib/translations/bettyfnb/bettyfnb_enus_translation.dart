@@ -320,6 +320,7 @@ class BettyFnBEnUSTranslation {
     'fnb_report_refunddetailreturnamount': 'Amount Refunded',
     'fnb_report_refunddetailnote': 'Note',
     'fnb_report_refunddetailorder': 'Orders',
+    'fnb_report_refunddetailprocessed': 'Processed',
     'fnb_report_notmatched': 'Not matched',
     'fnb_report_matched': 'Matched',
     // Refund
