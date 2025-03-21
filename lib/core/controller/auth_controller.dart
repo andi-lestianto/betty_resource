@@ -20,14 +20,14 @@ class AuthController extends GetxController {
     authRepository.saveLoginToken(token);
   }
 
-  setCurrentUser(UsersResponse data) {
+  setCurrentUser(UsersResponse data) async {
     usersResponse = data;
-    authRepository.saveLoginData(data.toJson());
+    await authRepository.saveLoginData(data.toJson());
   }
 
-  setSelectedBranch(Branches data) {
+  setSelectedBranch(Branches data) async {
     selectedBranch = data;
-    authRepository.saveSelectedBranch(data.toJson());
+    await authRepository.saveSelectedBranch(data.toJson());
   }
 
   getCurrentUser() async {
@@ -57,7 +57,7 @@ class AuthController extends GetxController {
 
   deleteCurrentUser() async {
     usersResponse = null;
-    authRepository.deleteLoginData();
+    await authRepository.deleteLoginData();
     await Future.delayed(const Duration(seconds: 1)).then((value) {
       Get.offAllNamed('/login');
     });
@@ -69,17 +69,17 @@ class AuthController extends GetxController {
 
   logoutBranch() async {
     selectedBranch = null;
-    authRepository.deleteSelectedBranch();
+    await authRepository.deleteSelectedBranch();
     await Future.delayed(const Duration(seconds: 1)).then((value) {
       Get.offAllNamed('/select-profile');
     });
   }
 
   @override
-  void onInit() {
+  void onInit() async {
     super.onInit();
-    getCurrentUser();
-    getCurrentToken();
-    getSelectedBranch();
+    await getCurrentUser();
+    await getCurrentToken();
+    await getSelectedBranch();
   }
 }
