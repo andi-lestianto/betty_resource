@@ -79,6 +79,7 @@ class BettyMainEnUSTranslation {
     'main_business_phonenumber': 'Phone Number',
     'main_business_phonenumberhint': 'Ex. 085336784956',
     'main_business_uploadimage': 'Upload Image',
+    'main_business_changeimage': 'Change Gambar',
     'main_business_takephoto': 'Take Photo',
     'main_business_choosefromgallery': 'Choose from Gallery',
     'main_business_savesuccesstitle': 'Data Saved Successfully',

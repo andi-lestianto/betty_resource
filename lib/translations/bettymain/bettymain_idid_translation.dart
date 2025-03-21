@@ -77,6 +77,7 @@ class BettyMainIdIDTranslation {
     'main_business_phonenumber': 'Nomor Telepon',
     'main_business_phonenumberhint': 'Cth. 085336784956',
     'main_business_uploadimage': 'Upload Gambar',
+    'main_business_changeimage': 'Ganti Gambar',
     'main_business_takephoto': 'Ambil Gambar',
     'main_business_choosefromgallery': 'Pilih dari Galeri',
     'main_business_savesuccesstitle': 'Data Berhasil Disimpan',
