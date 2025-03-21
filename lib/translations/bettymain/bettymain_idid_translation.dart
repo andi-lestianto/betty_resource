@@ -72,6 +72,7 @@ class BettyMainIdIDTranslation {
         'Lengkapi informasi usaha Anda sebagai langkah terakhir sebelum dapat menggunakan Betty.',
     'main_business_businessinformation': 'Informasi Usaha',
     'main_business_accountinformation': 'Informasi Akun',
+    'main_business_setpassword': 'Atur Kata Sandi',
     'main_business_businessname': 'Nama Usaha',
     'main_business_businessnamehint': 'Cth. Ayam Goreng Bu Lia',
     'main_business_phonenumber': 'Nomor Telepon',

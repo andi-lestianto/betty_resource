@@ -74,6 +74,7 @@ class BettyMainEnUSTranslation {
         'Complete your business information as the final step before you can use Betty.',
     'main_business_businessinformation': 'Business Information',
     'main_business_accountinformation': 'Account Information',
+    'main_business_setpassword': 'Create Password',
     'main_business_businessname': 'Business Name',
     'main_business_businessnamehint': 'Ex. Mrs. Lia Fried Chicken',
     'main_business_phonenumber': 'Phone Number',
