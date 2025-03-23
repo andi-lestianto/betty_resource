@@ -11,7 +11,7 @@ class ApiResponse<T> {
 
   ApiResponse.completed({required this.data}) : status = Status.completed;
 
-  ApiResponse.error({required this.message}) : status = Status.error;
+  ApiResponse.error({required this.message, this.data}) : status = Status.error;
 }
 
 enum Status { initial, loading, completed, error }
